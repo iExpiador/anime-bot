@@ -1,0 +1,37 @@
+<div style="font-family: inherit; color: inherit; line-height: 1.7;">
+
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 25px; align-items: flex-start;">
+        
+        <div style="flex-shrink: 0; max-width: 200px;">
+            <img src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg" alt="NARUTO" style="width: 100%; display: block; border-radius: 4px;">
+        </div>
+        
+        <div style="flex: 1; min-width: 250px;">
+            <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95em; line-height: 1.9;">
+                <li><strong>Rating:</strong> 4.0/5 <span style="color: #f5a623;">★★★★☆</span> <span style="opacity: 0.7;">(728.230 usuarios)</span></li>
+                <li><strong>Score MAL:</strong> 8.00/10 ⭐</li>
+                <li><strong>Estudio:</strong> Studio Pierrot</li>
+                <li><strong>Formato:</strong> TV</li>
+                <li><strong>Episodios:</strong> 220</li>
+                <li><strong>Duración:</strong> 23 min por ep</li>
+                <li><strong>Emisión:</strong> Oct 3, 2002 - Feb 8, 2007</li>
+                <li><strong>Estado:</strong> FINISHED</li>
+                <li><strong>Temporada:</strong> FALL 2002</li>
+                <li><strong>Fuente:</strong> MANGA</li>
+                <li><strong>Géneros:</strong> Action, Adventure, Comedy, Drama, Fantasy, Supernatural</li>
+            </ul>
+        </div>
+    </div>
+
+    <div style="border-left: 4px solid #cccccc; padding: 8px 0 8px 20px; margin: 25px 0; font-style: italic; opacity: 0.9;">
+        <p style="margin: 0; text-align: justify;">Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. 
+Shunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. 
+(Source: MAL Rewrite)</p>
+    </div>
+
+    <hr style="margin: 30px 0; border: none; border-top: 1px solid rgba(128,128,128,0.3);">
+    <p style="font-size: 0.8em; opacity: 0.7; text-align: center;">
+        Datos obtenidos de <a href="https://anilist.co/anime/20" target="_blank" rel="noopener" style="color: inherit; text-decoration: underline;">AniList</a>.
+    </p>
+
+</div>
