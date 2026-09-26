@@ -4,7 +4,7 @@ const path = require('path');
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-// Consulta GraphQL de AniList: animes en emisión con día y hora
+// Consulta GraphQL mejorada con airingSchedule
 const ANILIST_QUERY = `
 query ($page: Int) {
   Page(page: $page, perPage: 50) {
@@ -13,7 +13,6 @@ query ($page: Int) {
       id
       idMal
       title { romaji english native }
-      description
       episodes
       duration
       status
@@ -23,13 +22,6 @@ query ($page: Int) {
       genres
       coverImage { large extraLarge }
       studios(isMain: true) { nodes { name } }
-      airingSchedule(notYetAired: false, perPage: 1) {
-        nodes {
-          episode
-          airingAt
-          timeUntilAiring
-        }
-      }
       nextAiringEpisode {
         episode
         airingAt
@@ -58,21 +50,27 @@ async function fetchPage(page, maxIntentos = 3) {
     }
 }
 
-// Convertir timestamp UTC a hora de Japón (JST)
-function getJapanTime(airingAt) {
+// Convertir timestamp UTC a día y hora de Japón (JST)
+function getJapanDayAndTime(airingAt) {
     const fecha = new Date(airingAt * 1000);
-    const jstString = fecha.toLocaleString('en-US', {
+    
+    // Día de la semana en Japón
+    const diaJapones = fecha.toLocaleString('en-US', {
         timeZone: 'Asia/Tokyo',
-        weekday: 'long',
+        weekday: 'long'
+    }).toLowerCase();
+    
+    // Hora en Japón
+    const horaJaponesa = fecha.toLocaleString('en-US', {
+        timeZone: 'Asia/Tokyo',
         hour: '2-digit',
         minute: '2-digit',
         hour12: false
     });
-    // Ejemplo: "Monday, 19:30"
-    const partes = jstString.split(', ');
+    
     return {
-        dia: partes[0].toLowerCase(),
-        hora: partes[1]
+        dia: diaJapones,
+        hora: horaJaponesa
     };
 }
 
@@ -84,12 +82,12 @@ async function main() {
         let pagina = 1;
         let hayMas = true;
 
-        while (hayMas && pagina <= 6) { // Máximo 6 páginas = 300 animes
+        while (hayMas && pagina <= 6) {
             const resultado = await fetchPage(pagina);
             todasLasPaginas = todasLasPaginas.concat(resultado.media);
             hayMas = resultado.pageInfo.hasNextPage;
             pagina++;
-            await sleep(1000); // Respetar rate limit
+            await sleep(1000);
         }
 
         console.log(`✅ ${todasLasPaginas.length} animes obtenidos`);
@@ -97,7 +95,7 @@ async function main() {
         // Agrupar por día
         const programacion = {
             actualizado: new Date().toISOString(),
-            total: todasLasPaginas.length,
+            total: 0,
             dias: {
                 monday: [],
                 tuesday: [],
@@ -109,12 +107,18 @@ async function main() {
             }
         };
 
+        let contador = 0;
+
         todasLasPaginas.forEach(anime => {
             const next = anime.nextAiringEpisode;
             if (!next || !next.airingAt) return;
 
-            const { dia, hora } = getJapanTime(next.airingAt);
-            if (!programacion.dias[dia]) return;
+            const { dia, hora } = getJapanDayAndTime(next.airingAt);
+            
+            if (!programacion.dias[dia]) {
+                console.log(`⚠️ Día desconocido: ${dia}`);
+                return;
+            }
 
             programacion.dias[dia].push({
                 mal_id: anime.idMal,
@@ -131,7 +135,11 @@ async function main() {
                 generos: anime.genres,
                 estudio: anime.studios.nodes.map(s => s.name).join(', ')
             });
+
+            contador++;
         });
+
+        programacion.total = contador;
 
         // Ordenar cada día por hora
         Object.keys(programacion.dias).forEach(dia => {
@@ -148,6 +156,7 @@ async function main() {
         fs.writeFileSync(rutaArchivo, JSON.stringify(programacion, null, 2), 'utf8');
 
         console.log(`✅ Guardado en fichas/programacion.json`);
+        console.log(`📊 Total: ${contador} animes agrupados`);
         console.log(`📊 Resumen por día:`);
         Object.entries(programacion.dias).forEach(([dia, lista]) => {
             console.log(`   ${dia}: ${lista.length} animes`);
