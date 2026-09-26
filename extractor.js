@@ -5,12 +5,37 @@ const path = require('path');
 const ANIME_ID = process.env.ANIME_ID || 28171;
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+// Lista de proxies públicos para saltar el bloqueo de Jikan desde GitHub
+const PROXIES = [
+    'https://corsproxy.io/?',
+    'https://api.allorigins.win/raw?url=',
+    'https://cors-anywhere.herokuapp.com/'
+];
+
 async function fetchConReintentos(url, maxIntentos = 5) {
     for (let intento = 1; intento <= maxIntentos; intento++) {
+        // Alternar entre proxies según el intento
+        const proxy = PROXIES[(intento - 1) % PROXIES.length];
+        const urlConProxy = proxy + encodeURIComponent(url);
+        
         try {
-            console.log(`📡 Intento ${intento}/${maxIntentos}: ${url}`);
-            const respuesta = await axios.get(url, { timeout: 15000 });
-            return respuesta;
+            console.log(`📡 Intento ${intento}/${maxIntentos} usando proxy: ${proxy.split('/')[2]}`);
+            const respuesta = await axios.get(urlConProxy, { 
+                timeout: 20000,
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (compatible; AnimeBot/1.0)'
+                }
+            });
+            
+            // Algunos proxies devuelven el JSON como string, lo parseamos
+            let data = respuesta.data;
+            if (typeof data === 'string') {
+                data = JSON.parse(data);
+            }
+            
+            // Simulamos la estructura de respuesta de axios
+            return { data };
+            
         } catch (error) {
             console.log(`⚠️ Falló el intento ${intento}: ${error.message}`);
             if (intento === maxIntentos) throw new Error(`Se agotaron los ${maxIntentos} intentos. Último error: ${error.message}`);
@@ -60,20 +85,16 @@ async function main() {
 
         // ============================================
         // VERSIÓN BLOGGER: Contenido limpio sin fondos
-        // Estilo inspirado en OtakuDesho.net
         // ============================================
         const contenidoBlogger = `
 <div style="font-family: inherit; color: inherit; line-height: 1.7;">
 
-    <!-- BLOQUE PRINCIPAL: IMAGEN + DATOS -->
     <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 25px; align-items: flex-start;">
         
-        <!-- COLUMNA IZQUIERDA: IMAGEN -->
         <div style="flex-shrink: 0; max-width: 200px;">
             <img src="${anime.images.jpg.image_url}" alt="${anime.title}" style="width: 100%; display: block; border-radius: 4px;">
         </div>
         
-        <!-- COLUMNA DERECHA: DATOS -->
         <div style="flex: 1; min-width: 250px;">
             <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95em; line-height: 1.9;">
                 <li><strong>Rating:</strong> ${scoreSobre5}/5 <span style="color: #f5a623;">${estrellas}</span> <span style="opacity: 0.7;">(${(anime.scored_by || 0).toLocaleString('es-ES')} votos)</span></li>
@@ -92,7 +113,6 @@ async function main() {
         </div>
     </div>
 
-    <!-- SINOPSIS CON BLOCKQUOTE -->
     <div style="border-left: 4px solid #cccccc; padding: 8px 0 8px 20px; margin: 25px 0; font-style: italic; opacity: 0.9;">
         <p style="margin: 0; text-align: justify;">${anime.synopsis || 'Sin sinopsis disponible.'}</p>
     </div>
