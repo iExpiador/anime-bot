@@ -1,0 +1,12 @@
+{
+  "name": "anime-blogger-bot",
+  "version": "1.0.0",
+  "description": "Bot que extrae animes de Jikan API y los publica en Blogger",
+  "main": "extractor.js",
+  "scripts": {
+    "start": "node extractor.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
