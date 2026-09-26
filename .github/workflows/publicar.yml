@@ -1,11 +1,19 @@
-name: Publicar Ficha Anime
+name: Generar Ficha Anime
 
 on:
-  workflow_dispatch: # Esto te da un botón para ejecutarlo manualmente
+  workflow_dispatch:
+    inputs:
+      anime_id:
+        description: 'ID del anime en MyAnimeList (ej: 28171)'
+        required: true
+        default: '28171'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Permiso para guardar archivos en el repo
+    
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
@@ -13,15 +21,18 @@ jobs:
       - name: Instalar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Instalar dependencias
         run: npm install
 
       - name: Ejecutar el bot
         run: node extractor.js
-        env:
-          BLOGGER_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
-          BLOGGER_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
-          BLOGGER_REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
-          BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
+
+      - name: Guardar la ficha en el repositorio
+        run: |
+          git config user.name "Anime Bot"
+          git config user.email "bot@github.com"
+          git add fichas/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Nueva ficha generada: ${{ github.event.inputs.anime_id }}"
+          git push
