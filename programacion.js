@@ -4,7 +4,13 @@ const path = require('path');
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-// Consulta GraphQL mejorada con airingSchedule
+// ==========================================
+// GÉNEROS A EXCLUIR DEL JSON
+// Solo Hentai. Ecchi se mantiene.
+// ==========================================
+const GENEROS_EXCLUIDOS = ["Hentai"];
+
+// Consulta GraphQL de AniList
 const ANILIST_QUERY = `
 query ($page: Int) {
   Page(page: $page, perPage: 50) {
@@ -108,10 +114,20 @@ async function main() {
         };
 
         let contador = 0;
+        let excluidos = 0;
 
         todasLasPaginas.forEach(anime => {
             const next = anime.nextAiringEpisode;
             if (!next || !next.airingAt) return;
+
+            // ==========================================
+            // FILTRAR GÉNEROS EXCLUIDOS (solo Hentai)
+            // ==========================================
+            if (anime.genres && anime.genres.some(g => GENEROS_EXCLUIDOS.includes(g))) {
+                console.log(`🚫 Excluido: ${anime.title.romaji} (${anime.genres.join(', ')})`);
+                excluidos++;
+                return;
+            }
 
             const { dia, hora } = getJapanDayAndTime(next.airingAt);
             
@@ -157,6 +173,7 @@ async function main() {
 
         console.log(`✅ Guardado en fichas/programacion.json`);
         console.log(`📊 Total: ${contador} animes agrupados`);
+        console.log(`🚫 Excluidos: ${excluidos} animes (Hentai)`);
         console.log(`📊 Resumen por día:`);
         Object.entries(programacion.dias).forEach(([dia, lista]) => {
             console.log(`   ${dia}: ${lista.length} animes`);
