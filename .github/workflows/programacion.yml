@@ -1,0 +1,36 @@
+name: Actualizar Programación Semanal
+
+on:
+  workflow_dispatch: # Botón manual
+  schedule:
+    # Se ejecuta todos los días a las 18:00 UTC (3 AM hora Japón)
+    - cron: '0 18 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Generar programación
+        run: node programacion.js
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "Anime Bot"
+          git config user.email "bot@github.com"
+          git add fichas/programacion.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Actualizar programación semanal"
+          git push
