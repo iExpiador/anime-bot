@@ -28,6 +28,8 @@ jobs:
 
       - name: Ejecutar el bot
         run: node extractor.js
+        env:
+          ANIME_ID: ${{ github.event.inputs.anime_id }}
 
       - name: Guardar la ficha en el repositorio
         run: |
