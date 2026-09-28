@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-27T21:08:03.362Z",
-  "total": 53,
+  "actualizado": "2026-09-28T23:05:44.567Z",
+  "total": 51,
   "dias": {
     "monday": [
       {
@@ -22,32 +22,15 @@
         "estudio": "ILCA"
       },
       {
-        "mal_id": 64965,
-        "anilist_id": 216625,
-        "titulo": "PokéOki SEASON 2",
-        "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216625-tp4JIRrSoK3B.jpg",
-        "episodio_actual": 4,
-        "total_episodios": 4,
-        "hora_jst": "07:00",
-        "airing_at": 1790546400,
-        "score": null,
-        "formato": "ONA",
-        "generos": [
-          "Slice of Life"
-        ],
-        "estudio": ""
-      },
-      {
         "mal_id": 55809,
         "anilist_id": 137653,
         "titulo": "Xian Ni",
         "titulo_ingles": "Renegade Immortal",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
-        "episodio_actual": 160,
+        "episodio_actual": 161,
         "total_episodios": 180,
         "hora_jst": "11:00",
-        "airing_at": 1790560800,
+        "airing_at": 1791165600,
         "score": "8.20",
         "formato": "ONA",
         "generos": [
@@ -134,24 +117,6 @@
           "Romance"
         ],
         "estudio": "ROLL2"
-      },
-      {
-        "mal_id": 62331,
-        "anilist_id": 197754,
-        "titulo": "LIAR GAME",
-        "titulo_ingles": "LIAR GAME",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
-        "episodio_actual": 26,
-        "total_episodios": 26,
-        "hora_jst": "24:00",
-        "airing_at": 1790607600,
-        "score": "6.20",
-        "formato": "TV",
-        "generos": [
-          "Drama",
-          "Psychological"
-        ],
-        "estudio": "MADHOUSE"
       }
     ],
     "wednesday": [
@@ -927,7 +892,7 @@
         "total_episodios": 26,
         "hora_jst": "22:30",
         "airing_at": 1791120600,
-        "score": null,
+        "score": "6.00",
         "formato": "ONA",
         "generos": [
           "Comedy",
@@ -966,7 +931,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791124200,
-        "score": "6.40",
+        "score": "6.90",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -984,7 +949,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791124200,
-        "score": null,
+        "score": "7.20",
         "formato": "ONA",
         "generos": [
           "Action",
