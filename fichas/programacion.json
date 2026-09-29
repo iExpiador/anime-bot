@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-28T23:05:44.567Z",
-  "total": 51,
+  "actualizado": "2026-09-29T22:03:28.072Z",
+  "total": 50,
   "dias": {
     "monday": [
       {
@@ -51,7 +51,7 @@
         "total_episodios": 10,
         "hora_jst": "23:00",
         "airing_at": 1792418400,
-        "score": "9.00",
+        "score": "8.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -63,33 +63,15 @@
     ],
     "tuesday": [
       {
-        "mal_id": null,
-        "anilist_id": 155723,
-        "titulo": "Wushen Zhuzai: Da Wei Pian",
-        "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
-        "episodio_actual": 420,
-        "total_episodios": 448,
-        "hora_jst": "11:00",
-        "airing_at": 1790647200,
-        "score": "6.60",
-        "formato": "ONA",
-        "generos": [
-          "Action",
-          "Fantasy"
-        ],
-        "estudio": "Ruo Hong Culture"
-      },
-      {
         "mal_id": 64388,
         "anilist_id": 213188,
         "titulo": "Jueshi Zhan Hun 2",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
-        "episodio_actual": 17,
+        "episodio_actual": 18,
         "total_episodios": 100,
         "hora_jst": "11:00",
-        "airing_at": 1790647200,
+        "airing_at": 1791252000,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -98,25 +80,6 @@
           "Fantasy"
         ],
         "estudio": ""
-      },
-      {
-        "mal_id": 61126,
-        "anilist_id": 187260,
-        "titulo": "Kimi ga Shinu made Koi wo Shitai",
-        "titulo_ingles": "I Want to Love You Till Your Dying Day",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187260-WW5RBa5NINRP.jpg",
-        "episodio_actual": 13,
-        "total_episodios": 13,
-        "hora_jst": "21:30",
-        "airing_at": 1790685000,
-        "score": "7.40",
-        "formato": "TV",
-        "generos": [
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ],
-        "estudio": "ROLL2"
       }
     ],
     "wednesday": [
@@ -126,10 +89,10 @@
         "titulo": "Sora wa Akai Kawa no Hotori",
         "titulo_ingles": "Red River",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
-        "episodio_actual": 13,
+        "episodio_actual": 14,
         "total_episodios": 24,
         "hora_jst": "01:35",
-        "airing_at": 1790699700,
+        "airing_at": 1791304500,
         "score": "6.20",
         "formato": "TV",
         "generos": [
@@ -533,7 +496,7 @@
         "total_episodios": null,
         "hora_jst": "09:26",
         "airing_at": 1790987160,
-        "score": "6.20",
+        "score": "6.30",
         "formato": "TV_SHORT",
         "generos": [
           "Fantasy",
@@ -724,7 +687,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1790953200,
-        "score": "5.80",
+        "score": "5.90",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -826,6 +789,24 @@
         "estudio": "Motion Magic"
       },
       {
+        "mal_id": null,
+        "anilist_id": 155723,
+        "titulo": "Wushen Zhuzai: Da Wei Pian",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
+        "episodio_actual": 421,
+        "total_episodios": 448,
+        "hora_jst": "11:00",
+        "airing_at": 1791079200,
+        "score": "6.60",
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Fantasy"
+        ],
+        "estudio": "Ruo Hong Culture"
+      },
+      {
         "mal_id": 63832,
         "anilist_id": 210031,
         "titulo": "Seihantai na Kimi to Boku 2nd Season",
@@ -892,7 +873,7 @@
         "total_episodios": 26,
         "hora_jst": "22:30",
         "airing_at": 1791120600,
-        "score": "6.00",
+        "score": "6.20",
         "formato": "ONA",
         "generos": [
           "Comedy",
@@ -931,7 +912,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791124200,
-        "score": "6.90",
+        "score": "7.00",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -949,7 +930,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791124200,
-        "score": "7.20",
+        "score": "7.30",
         "formato": "ONA",
         "generos": [
           "Action",
