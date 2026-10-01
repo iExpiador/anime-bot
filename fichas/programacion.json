@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T22:02:38.903Z",
-  "total": 47,
+  "actualizado": "2026-10-01T22:30:14.032Z",
+  "total": 48,
   "dias": {
     "monday": [
       {
@@ -180,15 +180,15 @@
     ],
     "thursday": [
       {
-        "mal_id": 63773,
-        "anilist_id": 209541,
-        "titulo": "PetitCure: Precure Fairies Season 3",
+        "mal_id": null,
+        "anilist_id": 217624,
+        "titulo": "PetitCure: Precure Fairies Season 4",
         "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209541-p9YKR3vE0Fx6.jpg",
-        "episodio_actual": 28,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg",
+        "episodio_actual": 2,
         "total_episodios": null,
         "hora_jst": "18:30",
-        "airing_at": 1790847000,
+        "airing_at": 1791451800,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -198,22 +198,42 @@
         "estudio": "IKIF+"
       },
       {
-        "mal_id": 61107,
-        "anilist_id": 187166,
-        "titulo": "Ganso! Bandori-chan",
-        "titulo_ingles": "GANSO! BanG Dream Chan",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
-        "episodio_actual": 52,
-        "total_episodios": 52,
-        "hora_jst": "22:00",
-        "airing_at": 1790859600,
-        "score": "6.80",
-        "formato": "ONA",
+        "mal_id": 63337,
+        "anilist_id": 206401,
+        "titulo": "FX Senshi Kurumi-chan",
+        "titulo_ingles": "FX Fighter Kurumi-chan",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "21:30",
+        "airing_at": 1791462600,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "estudio": "Passione"
+      },
+      {
+        "mal_id": 64534,
+        "anilist_id": 213805,
+        "titulo": "Koori no Jouheki 2nd Season",
+        "titulo_ingles": "The Ramparts of Ice Season 2",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:56",
+        "airing_at": 1791471360,
+        "score": null,
+        "formato": "TV",
         "generos": [
           "Comedy",
-          "Music"
+          "Drama",
+          "Romance",
+          "Slice of Life"
         ],
-        "estudio": "AtoriE"
+        "estudio": "Studio KAI"
       },
       {
         "mal_id": 62534,
@@ -244,7 +264,7 @@
         "total_episodios": null,
         "hora_jst": "24:30",
         "airing_at": 1791387000,
-        "score": null,
+        "score": "7.40",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -358,10 +378,10 @@
         "titulo": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
         "titulo_ingles": "The Exiled Heavy Knight Knows How to Game the System",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
-        "episodio_actual": 14,
+        "episodio_actual": 15,
         "total_episodios": 26,
         "hora_jst": "24:26",
-        "airing_at": 1790868360,
+        "airing_at": 1791473160,
         "score": "6.70",
         "formato": "TV",
         "generos": [
@@ -626,7 +646,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1790953200,
-        "score": "5.80",
+        "score": "5.90",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -683,7 +703,7 @@
         "total_episodios": 51,
         "hora_jst": "08:30",
         "airing_at": 1791070200,
-        "score": "7.50",
+        "score": "7.60",
         "formato": "TV",
         "generos": [
           "Mahou Shoujo",
@@ -755,7 +775,7 @@
         "total_episodios": 13,
         "hora_jst": "17:00",
         "airing_at": 1791100800,
-        "score": "8.20",
+        "score": "8.30",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -871,7 +891,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791124200,
-        "score": "7.10",
+        "score": "7.00",
         "formato": "TV",
         "generos": [
           "Adventure",
