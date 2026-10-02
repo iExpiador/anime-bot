@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-01T22:30:14.032Z",
-  "total": 48,
+  "actualizado": "2026-10-02T22:00:33.806Z",
+  "total": 54,
   "dias": {
     "monday": [
       {
@@ -180,7 +180,7 @@
     ],
     "thursday": [
       {
-        "mal_id": null,
+        "mal_id": 65095,
         "anilist_id": 217624,
         "titulo": "PetitCure: Precure Fairies Season 4",
         "titulo_ingles": null,
@@ -207,7 +207,7 @@
         "total_episodios": null,
         "hora_jst": "21:30",
         "airing_at": 1791462600,
-        "score": null,
+        "score": "6.90",
         "formato": "TV",
         "generos": [
           "Drama",
@@ -225,7 +225,7 @@
         "total_episodios": null,
         "hora_jst": "23:56",
         "airing_at": 1791471360,
-        "score": null,
+        "score": "8.10",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -276,15 +276,32 @@
     ],
     "friday": [
       {
+        "mal_id": 65007,
+        "anilist_id": 217577,
+        "titulo": "Mazenchu",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "09:50",
+        "airing_at": 1791507000,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Slice of Life"
+        ],
+        "estudio": "Studio Nanahoshi"
+      },
+      {
         "mal_id": 61607,
         "anilist_id": 191832,
         "titulo": "Shiguang Dailiren III",
         "titulo_ingles": "Link Click Season 3",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
-        "episodio_actual": 9,
+        "episodio_actual": 10,
         "total_episodios": null,
         "hora_jst": "12:00",
-        "airing_at": 1790910000,
+        "airing_at": 1791514800,
         "score": "8.40",
         "formato": "ONA",
         "generos": [
@@ -301,10 +318,10 @@
         "titulo": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
         "titulo_ingles": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 11,
         "hora_jst": "17:00",
-        "airing_at": 1790928000,
+        "airing_at": 1791532800,
         "score": "8.50",
         "formato": "ONA",
         "generos": [
@@ -315,6 +332,23 @@
           "Supernatural"
         ],
         "estudio": "david production"
+      },
+      {
+        "mal_id": 62039,
+        "anilist_id": 194207,
+        "titulo": "Pan Dorobou",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "18:40",
+        "airing_at": 1791538800,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy"
+        ],
+        "estudio": "Shin-Ei Animation"
       },
       {
         "mal_id": 53876,
@@ -344,7 +378,7 @@
         "episodio_actual": 135,
         "total_episodios": null,
         "hora_jst": "19:00",
-        "airing_at": 1790935200,
+        "airing_at": 1791540000,
         "score": "6.40",
         "formato": "TV",
         "generos": [
@@ -355,22 +389,77 @@
         "estudio": "OLM"
       },
       {
-        "mal_id": 60059,
-        "anilist_id": 182616,
-        "titulo": "Nige Jouzu no Wakagimi 2nd Season",
-        "titulo_ingles": "The Elusive Samurai Season 2",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg",
-        "episodio_actual": 12,
+        "mal_id": 65009,
+        "anilist_id": 216895,
+        "titulo": "Aoki Denshou: Welsh & Shedar",
+        "titulo_ingles": "Welsh & Shedar",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "21:26",
+        "airing_at": 1791548760,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "Studio Massket"
+      },
+      {
+        "mal_id": 61987,
+        "anilist_id": 195516,
+        "titulo": "Kusuriya no Hitorigoto 3rd Season",
+        "titulo_ingles": "The Apothecary Diaries Season 3",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
+        "episodio_actual": 2,
         "total_episodios": 12,
+        "hora_jst": "23:00",
+        "airing_at": 1791554400,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Drama",
+          "Mystery"
+        ],
+        "estudio": "OLM"
+      },
+      {
+        "mal_id": 63181,
+        "anilist_id": 204650,
+        "titulo": "Tougen Anki: Nikko・Kegon no Taki-hen",
+        "titulo_ingles": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
         "hora_jst": "23:30",
-        "airing_at": 1790951400,
-        "score": "7.60",
+        "airing_at": 1791556200,
+        "score": null,
         "formato": "TV",
         "generos": [
           "Action",
-          "Adventure"
+          "Mystery",
+          "Supernatural"
         ],
-        "estudio": "CloverWorks"
+        "estudio": "Studio Hibari"
+      },
+      {
+        "mal_id": 64180,
+        "anilist_id": 212144,
+        "titulo": "Kizu darake Seijo yori Houfuku wo Komete Season2",
+        "titulo_ingles": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "24:00",
+        "airing_at": 1791471600,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Fantasy",
+          "Romance"
+        ],
+        "estudio": "Imageworks Studio, Imagica Infos"
       },
       {
         "mal_id": 59741,
@@ -392,6 +481,26 @@
       }
     ],
     "saturday": [
+      {
+        "mal_id": 59088,
+        "anilist_id": 178083,
+        "titulo": "Tokyo Revengers: Santen Sensou-hen",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "01:53",
+        "airing_at": 1791564780,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Drama",
+          "Romance",
+          "Supernatural"
+        ],
+        "estudio": "LIDENFILMS"
+      },
       {
         "mal_id": 64718,
         "anilist_id": 214703,
@@ -437,7 +546,7 @@
         "total_episodios": null,
         "hora_jst": "09:26",
         "airing_at": 1790987160,
-        "score": "6.30",
+        "score": "6.20",
         "formato": "TV_SHORT",
         "generos": [
           "Fantasy",
@@ -623,10 +732,10 @@
         "titulo": "Uchi no Otouto-domo ga Sumimasen",
         "titulo_ingles": "Please Excuse My Younger Brothers",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
-        "episodio_actual": 13,
+        "episodio_actual": 14,
         "total_episodios": 24,
         "hora_jst": "24:00",
-        "airing_at": 1790953200,
+        "airing_at": 1791558000,
         "score": "6.80",
         "formato": "TV",
         "generos": [
@@ -642,10 +751,10 @@
         "titulo": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
         "titulo_ingles": "Magical Explorer",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "24:00",
-        "airing_at": 1790953200,
+        "airing_at": 1791558000,
         "score": "5.90",
         "formato": "ONA",
         "generos": [
@@ -864,11 +973,11 @@
       {
         "mal_id": 64340,
         "anilist_id": 212888,
-        "titulo": "Temppal: Item no Chikara",
+        "titulo": "Tempal: Item no Chikara",
         "titulo_ingles": "Overgeared",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1791124200,
         "score": "7.40",
@@ -891,7 +1000,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791124200,
-        "score": "7.00",
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Adventure",
