@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-02T22:00:33.806Z",
-  "total": 54,
+  "actualizado": "2026-10-03T20:48:55.519Z",
+  "total": 67,
   "dias": {
     "monday": [
       {
@@ -204,7 +204,7 @@
         "titulo_ingles": "FX Fighter Kurumi-chan",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "21:30",
         "airing_at": 1791462600,
         "score": "6.90",
@@ -225,7 +225,7 @@
         "total_episodios": null,
         "hora_jst": "23:56",
         "airing_at": 1791471360,
-        "score": "8.10",
+        "score": "8.20",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -261,7 +261,7 @@
         "titulo_ingles": "Reincarnated as a Sword Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "24:30",
         "airing_at": 1791387000,
         "score": "7.40",
@@ -344,7 +344,7 @@
         "hora_jst": "18:40",
         "airing_at": 1791538800,
         "score": null,
-        "formato": "TV",
+        "formato": "TV_SHORT",
         "generos": [
           "Comedy"
         ],
@@ -416,7 +416,7 @@
         "total_episodios": 12,
         "hora_jst": "23:00",
         "airing_at": 1791554400,
-        "score": null,
+        "score": "8.50",
         "formato": "TV",
         "generos": [
           "Drama",
@@ -431,10 +431,10 @@
         "titulo_ingles": "TOUGEN ANKI: Nikko Kegon Falls Arc",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 24,
         "hora_jst": "23:30",
         "airing_at": 1791556200,
-        "score": null,
+        "score": "6.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -488,10 +488,10 @@
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 13,
         "hora_jst": "01:53",
         "airing_at": 1791564780,
-        "score": null,
+        "score": "7.50",
         "formato": "TV",
         "generos": [
           "Action",
@@ -502,16 +502,37 @@
         "estudio": "LIDENFILMS"
       },
       {
+        "mal_id": 56733,
+        "anilist_id": 169581,
+        "titulo": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+        "titulo_ingles": "Magical Explorer",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
+        "episodio_actual": 3,
+        "total_episodios": 13,
+        "hora_jst": "07:16",
+        "airing_at": 1791584160,
+        "score": "5.80",
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "estudio": "WHITE FOX"
+      },
+      {
         "mal_id": 64718,
         "anilist_id": 214703,
         "titulo": "Ghost Meets Gal!",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png",
-        "episodio_actual": 5,
+        "episodio_actual": 6,
         "total_episodios": null,
         "hora_jst": "08:00",
-        "airing_at": 1790982000,
-        "score": null,
+        "airing_at": 1791586800,
+        "score": "5.10",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -525,10 +546,10 @@
         "titulo": "Pan no Akachan (TV)",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212308-HUdh20Djd7cm.jpg",
-        "episodio_actual": 14,
+        "episodio_actual": 15,
         "total_episodios": null,
         "hora_jst": "08:30",
-        "airing_at": 1790983800,
+        "airing_at": 1791588600,
         "score": null,
         "formato": "TV_SHORT",
         "generos": [
@@ -542,10 +563,10 @@
         "titulo": "Rilakkuma",
         "titulo_ingles": "RILAKKUMA",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
-        "episodio_actual": 26,
+        "episodio_actual": 27,
         "total_episodios": null,
         "hora_jst": "09:26",
-        "airing_at": 1790987160,
+        "airing_at": 1791591960,
         "score": "6.20",
         "formato": "TV_SHORT",
         "generos": [
@@ -555,15 +576,50 @@
         "estudio": "Production I.G"
       },
       {
+        "mal_id": 63157,
+        "anilist_id": 216557,
+        "titulo": "Keroro Gunsou☆",
+        "titulo_ingles": "KERORO☆",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-9CXz04CEmXOi.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "09:30",
+        "airing_at": 1791592200,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy",
+          "Sci-Fi"
+        ],
+        "estudio": "Bandai Namco Pictures"
+      },
+      {
+        "mal_id": null,
+        "anilist_id": 214968,
+        "titulo": "Nezumi-kun no Chokki (TV) 2nd Season",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214968-rrPSP2nKF40C.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "09:30",
+        "airing_at": 1791592200,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Fantasy"
+        ],
+        "estudio": "Creadom8"
+      },
+      {
         "mal_id": 61619,
         "anilist_id": 214260,
         "titulo": "Zeri Feisheng",
         "titulo_ingles": "A Good Day to Ascend",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214260-m2fg5OwduwSt.jpg",
-        "episodio_actual": 14,
+        "episodio_actual": 15,
         "total_episodios": 30,
         "hora_jst": "10:00",
-        "airing_at": 1790989200,
+        "airing_at": 1791594000,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -579,10 +635,10 @@
         "titulo": "Douluo Dalu 2: Jueshi Tangmen",
         "titulo_ingles": "Soul Land 2: The Peerless Tang Clan",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137683-IMuvIECdZNBh.png",
-        "episodio_actual": 173,
+        "episodio_actual": 174,
         "total_episodios": 182,
         "hora_jst": "11:00",
-        "airing_at": 1790992800,
+        "airing_at": 1791597600,
         "score": "7.70",
         "formato": "ONA",
         "generos": [
@@ -592,6 +648,24 @@
           "Romance"
         ],
         "estudio": "Sparkly Key Animation"
+      },
+      {
+        "mal_id": 60597,
+        "anilist_id": 199353,
+        "titulo": "Dawang Raoming 3",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-S2jczHjCWHGL.png",
+        "episodio_actual": 4,
+        "total_episodios": 12,
+        "hora_jst": "11:00",
+        "airing_at": 1791597600,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Fantasy"
+        ],
+        "estudio": "Big Firebird Cultural Media"
       },
       {
         "mal_id": 61297,
@@ -612,15 +686,30 @@
         "estudio": "Lesprit"
       },
       {
+        "mal_id": 63901,
+        "anilist_id": 209709,
+        "titulo": "Sirotan",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209709-Wz8BKL1fm5MC.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "16:29",
+        "airing_at": 1791617340,
+        "score": null,
+        "formato": "TV",
+        "generos": [],
+        "estudio": "Lesprit"
+      },
+      {
         "mal_id": 966,
         "anilist_id": 966,
         "titulo": "Crayon Shin-chan",
         "titulo_ingles": "Shin Chan",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-        "episodio_actual": 1355,
+        "episodio_actual": 1356,
         "total_episodios": null,
         "hora_jst": "16:30",
-        "airing_at": 1791012600,
+        "airing_at": 1791617400,
         "score": "7.70",
         "formato": "TV",
         "generos": [
@@ -636,10 +725,10 @@
         "titulo": "Doraemon (2005)",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8687-bBnJMGnih4PT.jpg",
-        "episodio_actual": 935,
+        "episodio_actual": 936,
         "total_episodios": null,
         "hora_jst": "17:00",
-        "airing_at": 1791014400,
+        "airing_at": 1791619200,
         "score": "7.70",
         "formato": "TV",
         "generos": [
@@ -650,34 +739,15 @@
         "estudio": "Shin-Ei Animation"
       },
       {
-        "mal_id": 57466,
-        "anilist_id": 171110,
-        "titulo": "Honzuki no Gekokujou: Ryoushu no Youjo",
-        "titulo_ingles": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
-        "episodio_actual": 24,
-        "total_episodios": 24,
-        "hora_jst": "17:30",
-        "airing_at": 1791016200,
-        "score": "7.60",
-        "formato": "TV",
-        "generos": [
-          "Drama",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "estudio": "WIT STUDIO"
-      },
-      {
         "mal_id": 235,
         "anilist_id": 235,
         "titulo": "Meitantei Conan",
         "titulo_ingles": "Detective Conan",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx235-MyYT7K3chBdO.jpg",
-        "episodio_actual": 1215,
+        "episodio_actual": 1216,
         "total_episodios": null,
         "hora_jst": "18:00",
-        "airing_at": 1791018000,
+        "airing_at": 1791622800,
         "score": "8.20",
         "formato": "TV",
         "generos": [
@@ -689,16 +759,35 @@
         "estudio": "TMS Entertainment"
       },
       {
+        "mal_id": 64326,
+        "anilist_id": 212799,
+        "titulo": "Marronnier Oukoku no Shichinin no Kishi",
+        "titulo_ingles": "The Seven Knights of the Marronnier Kingdom",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212799-n7WDdic7IL1z.png",
+        "episodio_actual": 2,
+        "total_episodios": 20,
+        "hora_jst": "18:25",
+        "airing_at": 1791624300,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "estudio": "J.C.STAFF"
+      },
+      {
         "mal_id": 64398,
         "anilist_id": 213356,
         "titulo": "Guangyin Zhi Wai 2",
         "titulo_ingles": "Beyond Time's Gaze 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213356-nYFTX2yeMBd5.jpg",
-        "episodio_actual": 16,
+        "episodio_actual": 17,
         "total_episodios": 52,
         "hora_jst": "19:00",
-        "airing_at": 1791021600,
-        "score": "6.70",
+        "airing_at": 1791626400,
+        "score": "6.80",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -708,15 +797,72 @@
         "estudio": "Yien Animation"
       },
       {
+        "mal_id": 61140,
+        "anilist_id": 187316,
+        "titulo": "Gensou Suikoden",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "20:00",
+        "airing_at": 1791630000,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "KONAMI animation"
+      },
+      {
+        "mal_id": 59787,
+        "anilist_id": 180894,
+        "titulo": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+        "titulo_ingles": "Romelia War Chronicle",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "21:00",
+        "airing_at": 1791633600,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "estudio": "Atra"
+      },
+      {
+        "mal_id": 61153,
+        "anilist_id": 187402,
+        "titulo": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+        "titulo_ingles": "A Tale of the Secret Saint",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187402-ReKkLwFmMV3q.jpg",
+        "episodio_actual": 3,
+        "total_episodios": null,
+        "hora_jst": "22:00",
+        "airing_at": 1791637200,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "Felix Film"
+      },
+      {
         "mal_id": 63140,
         "anilist_id": 204389,
         "titulo": "Yasei no Last Boss ga Arawareta! 2nd Season",
         "titulo_ingles": "A Wild Last Boss Appeared! Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204389-jCoFCeTthDMy.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "22:30",
-        "airing_at": 1791034200,
+        "airing_at": 1791639000,
         "score": "7.10",
         "formato": "ONA",
         "generos": [
@@ -725,6 +871,65 @@
           "Fantasy"
         ],
         "estudio": "WAO World"
+      },
+      {
+        "mal_id": 61967,
+        "anilist_id": 195604,
+        "titulo": "Black Clover 2nd Season",
+        "titulo_ingles": "Black Clover Season 2",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:00",
+        "airing_at": 1791640800,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "estudio": "Studio Pierrot"
+      },
+      {
+        "mal_id": 62524,
+        "anilist_id": 199007,
+        "titulo": "#Zombie Sagashitemasu",
+        "titulo_ingles": "#I'm Looking For a Zombie",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-qxUDe3KA6AGI.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:30",
+        "airing_at": 1791642600,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Comedy",
+          "Horror",
+          "Mystery",
+          "Supernatural"
+        ],
+        "estudio": "Studio Comet"
+      },
+      {
+        "mal_id": 63764,
+        "anilist_id": 209562,
+        "titulo": "Vertex Force",
+        "titulo_ingles": "VERTEX FORCE",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209562-kQQbTKDuql9p.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:30",
+        "airing_at": 1791642600,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Mecha"
+        ],
+        "estudio": "Shogakukan Music & Digital Entertainment"
       },
       {
         "mal_id": 63061,
@@ -744,30 +949,28 @@
           "Slice of Life"
         ],
         "estudio": "Lay-duce"
-      },
-      {
-        "mal_id": 56733,
-        "anilist_id": 169581,
-        "titulo": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
-        "titulo_ingles": "Magical Explorer",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
-        "episodio_actual": 3,
-        "total_episodios": null,
-        "hora_jst": "24:00",
-        "airing_at": 1791558000,
-        "score": "5.90",
-        "formato": "ONA",
-        "generos": [
-          "Action",
-          "Adventure",
-          "Ecchi",
-          "Fantasy",
-          "Romance"
-        ],
-        "estudio": "WHITE FOX"
       }
     ],
     "sunday": [
+      {
+        "mal_id": 62922,
+        "anilist_id": 202250,
+        "titulo": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+        "titulo_ingles": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-duq4XpZP8TU3.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "01:30",
+        "airing_at": 1791649800,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "SynergySP"
+      },
       {
         "mal_id": 63125,
         "anilist_id": 204269,
@@ -812,7 +1015,7 @@
         "total_episodios": 51,
         "hora_jst": "08:30",
         "airing_at": 1791070200,
-        "score": "7.60",
+        "score": "7.50",
         "formato": "TV",
         "generos": [
           "Mahou Shoujo",
@@ -941,7 +1144,7 @@
         "total_episodios": 26,
         "hora_jst": "22:30",
         "airing_at": 1791120600,
-        "score": "6.20",
+        "score": "6.30",
         "formato": "ONA",
         "generos": [
           "Comedy",
@@ -1014,10 +1217,10 @@
         "titulo": "Mu Shen Ji 4",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211181-93dehu3v5xHE.png",
-        "episodio_actual": 25,
+        "episodio_actual": 26,
         "total_episodios": 26,
         "hora_jst": "24:00",
-        "airing_at": 1791039600,
+        "airing_at": 1791644400,
         "score": "6.70",
         "formato": "ONA",
         "generos": [
@@ -1026,6 +1229,44 @@
           "Fantasy"
         ],
         "estudio": "Sparkly Key Animation"
+      },
+      {
+        "mal_id": 61578,
+        "anilist_id": 191656,
+        "titulo": "Seitokai ni mo Ana wa Aru!",
+        "titulo_ingles": "Even the Student Council Has Its Holes!",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png",
+        "episodio_actual": 2,
+        "total_episodios": 12,
+        "hora_jst": "24:30",
+        "airing_at": 1791646200,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy",
+          "Ecchi",
+          "Slice of Life"
+        ],
+        "estudio": "Passione"
+      },
+      {
+        "mal_id": 63801,
+        "anilist_id": 209872,
+        "titulo": "Ranma 1/2 (2024) 3rd Season",
+        "titulo_ingles": "Ranma1/2 (2024) Season 3",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "24:56",
+        "airing_at": 1791647760,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Comedy",
+          "Romance"
+        ],
+        "estudio": "MAPPA"
       }
     ]
   }
