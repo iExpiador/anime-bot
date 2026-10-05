@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-04T21:04:51.176Z",
-  "total": 82,
+  "actualizado": "2026-10-05T23:54:17.504Z",
+  "total": 87,
   "dias": {
     "monday": [
       {
@@ -10,10 +10,10 @@
         "titulo_ingles": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls!",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-S65hVQp46NUf.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 8,
         "hora_jst": "01:00",
         "airing_at": 1791734400,
-        "score": null,
+        "score": "5.10",
         "formato": "TV_SHORT",
         "generos": [
           "Ecchi",
@@ -32,7 +32,7 @@
         "total_episodios": 12,
         "hora_jst": "01:05",
         "airing_at": 1791734700,
-        "score": null,
+        "score": "5.10",
         "formato": "TV_SHORT",
         "generos": [
           "Drama",
@@ -70,7 +70,7 @@
         "total_episodios": null,
         "hora_jst": "01:20",
         "airing_at": 1791735600,
-        "score": null,
+        "score": "6.60",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -86,10 +86,10 @@
         "titulo": "Xian Ni",
         "titulo_ingles": "Renegade Immortal",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
-        "episodio_actual": 161,
+        "episodio_actual": 162,
         "total_episodios": 180,
         "hora_jst": "11:00",
-        "airing_at": 1791165600,
+        "airing_at": 1791770400,
         "score": "8.20",
         "formato": "ONA",
         "generos": [
@@ -99,6 +99,46 @@
           "Fantasy"
         ],
         "estudio": "Build Dream"
+      },
+      {
+        "mal_id": 63409,
+        "anilist_id": 207191,
+        "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+        "titulo_ingles": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "21:30",
+        "airing_at": 1791808200,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Fantasy",
+          "Romance"
+        ],
+        "estudio": "diomedéa"
+      },
+      {
+        "mal_id": 63712,
+        "anilist_id": 209219,
+        "titulo": "Tensei Goblin Dakedo Shitsumon Aru?",
+        "titulo_ingles": "So What's Wrong with Getting Reborn as a Goblin?",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
+        "episodio_actual": 3,
+        "total_episodios": null,
+        "hora_jst": "22:00",
+        "airing_at": 1791810000,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "estudio": " BAKKKA"
       },
       {
         "mal_id": 60636,
@@ -120,6 +160,25 @@
         "estudio": "PIERROT FILMS"
       },
       {
+        "mal_id": 63098,
+        "anilist_id": 204011,
+        "titulo": "PSYЯEN",
+        "titulo_ingles": "PSYREN",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:00",
+        "airing_at": 1791813600,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "estudio": "Satelight"
+      },
+      {
         "mal_id": 63753,
         "anilist_id": 209463,
         "titulo": "Kanata Kara",
@@ -129,7 +188,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1791730800,
-        "score": null,
+        "score": "5.90",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -140,6 +199,26 @@
       }
     ],
     "tuesday": [
+      {
+        "mal_id": 54344,
+        "anilist_id": 160803,
+        "titulo": "Mahou Shoujo Ikusei Keikaku: restart",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "02:00",
+        "airing_at": 1791824400,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Fantasy",
+          "Mahou Shoujo",
+          "Thriller"
+        ],
+        "estudio": "SynergySP"
+      },
       {
         "mal_id": null,
         "anilist_id": 155723,
@@ -530,7 +609,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791556200,
-        "score": null,
+        "score": "6.20",
         "formato": "TV",
         "generos": [
           "Drama",
@@ -543,12 +622,12 @@
         "anilist_id": 204650,
         "titulo": "Tougen Anki: Nikko・Kegon no Taki-hen",
         "titulo_ingles": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-nvK5CuG60WGY.jpg",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
         "episodio_actual": 2,
         "total_episodios": 24,
         "hora_jst": "23:30",
         "airing_at": 1791556200,
-        "score": "7.00",
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Action",
@@ -574,6 +653,24 @@
           "Romance"
         ],
         "estudio": "Imageworks Studio, Imagica Infos"
+      },
+      {
+        "mal_id": null,
+        "anilist_id": 214593,
+        "titulo": "Yuusanchi! from Yuuhachi",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "24:00",
+        "airing_at": 1791471600,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "estudio": "Fanworks"
       },
       {
         "mal_id": 59741,
@@ -605,7 +702,7 @@
         "total_episodios": 13,
         "hora_jst": "01:53",
         "airing_at": 1791564780,
-        "score": "7.60",
+        "score": "7.50",
         "formato": "TV",
         "generos": [
           "Action",
@@ -625,7 +722,7 @@
         "total_episodios": 13,
         "hora_jst": "07:16",
         "airing_at": 1791584160,
-        "score": "6.70",
+        "score": "6.80",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -646,7 +743,7 @@
         "total_episodios": null,
         "hora_jst": "08:00",
         "airing_at": 1791586800,
-        "score": "5.20",
+        "score": "5.10",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -699,7 +796,7 @@
         "total_episodios": null,
         "hora_jst": "09:30",
         "airing_at": 1791592200,
-        "score": "5.40",
+        "score": "5.50",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -882,7 +979,7 @@
         "total_episodios": 20,
         "hora_jst": "18:25",
         "airing_at": 1791624300,
-        "score": "5.80",
+        "score": "5.90",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -939,7 +1036,7 @@
         "total_episodios": null,
         "hora_jst": "21:00",
         "airing_at": 1791633600,
-        "score": "6.60",
+        "score": "6.70",
         "formato": "ONA",
         "generos": [
           "Adventure",
@@ -958,7 +1055,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791637200,
-        "score": "6.50",
+        "score": "6.60",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -977,7 +1074,7 @@
         "total_episodios": null,
         "hora_jst": "22:30",
         "airing_at": 1791639000,
-        "score": "7.30",
+        "score": "7.20",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1179,7 +1276,7 @@
         "total_episodios": null,
         "hora_jst": "09:30",
         "airing_at": 1791678600,
-        "score": "5.40",
+        "score": "5.50",
         "formato": "TV",
         "generos": [
           "Music"
@@ -1232,7 +1329,7 @@
         "total_episodios": 12,
         "hora_jst": "16:30",
         "airing_at": 1791703800,
-        "score": "7.90",
+        "score": "8.00",
         "formato": "TV",
         "generos": [
           "Romance",
@@ -1251,7 +1348,7 @@
         "total_episodios": 24,
         "hora_jst": "17:00",
         "airing_at": 1791705600,
-        "score": null,
+        "score": "7.80",
         "formato": "TV",
         "generos": [
           "Sports"
@@ -1305,7 +1402,7 @@
         "total_episodios": null,
         "hora_jst": "21:30",
         "airing_at": 1791721800,
-        "score": null,
+        "score": "6.80",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1327,7 +1424,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791723600,
-        "score": null,
+        "score": "5.60",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1345,7 +1442,7 @@
         "total_episodios": 26,
         "hora_jst": "22:30",
         "airing_at": 1791725400,
-        "score": "6.30",
+        "score": "6.40",
         "formato": "ONA",
         "generos": [
           "Comedy",
@@ -1381,7 +1478,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791727200,
-        "score": null,
+        "score": "5.80",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1420,7 +1517,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1791729000,
-        "score": "7.40",
+        "score": "7.50",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1458,7 +1555,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1791729000,
-        "score": null,
+        "score": "6.40",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1477,7 +1574,7 @@
         "total_episodios": 13,
         "hora_jst": "23:45",
         "airing_at": 1791729900,
-        "score": null,
+        "score": "5.60",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1495,7 +1592,7 @@
         "total_episodios": 26,
         "hora_jst": "24:00",
         "airing_at": 1791644400,
-        "score": "6.70",
+        "score": "6.80",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1514,7 +1611,7 @@
         "total_episodios": 12,
         "hora_jst": "24:30",
         "airing_at": 1791646200,
-        "score": "7.20",
+        "score": "7.30",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1533,7 +1630,7 @@
         "total_episodios": null,
         "hora_jst": "24:56",
         "airing_at": 1791647760,
-        "score": "7.30",
+        "score": "7.50",
         "formato": "TV",
         "generos": [
           "Action",
