@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-05T23:54:17.504Z",
-  "total": 87,
+  "actualizado": "2026-10-06T22:31:38.704Z",
+  "total": 92,
   "dias": {
     "monday": [
       {
@@ -70,7 +70,7 @@
         "total_episodios": null,
         "hora_jst": "01:20",
         "airing_at": 1791735600,
-        "score": "6.60",
+        "score": "6.70",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -105,12 +105,12 @@
         "anilist_id": 207191,
         "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
         "titulo_ingles": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-4rkciwfBGi2A.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "21:30",
         "airing_at": 1791808200,
-        "score": null,
+        "score": "6.80",
         "formato": "TV",
         "generos": [
           "Fantasy",
@@ -128,7 +128,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791810000,
-        "score": null,
+        "score": "6.50",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -169,7 +169,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791813600,
-        "score": null,
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Action",
@@ -188,7 +188,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1791730800,
-        "score": "5.90",
+        "score": "6.20",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -203,13 +203,13 @@
         "mal_id": 54344,
         "anilist_id": 160803,
         "titulo": "Mahou Shoujo Ikusei Keikaku: restart",
-        "titulo_ingles": null,
+        "titulo_ingles": "MAGICAL GIRL RAISING PROJECT restart",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
         "episodio_actual": 2,
         "total_episodios": null,
         "hora_jst": "02:00",
         "airing_at": 1791824400,
-        "score": null,
+        "score": "5.70",
         "formato": "TV",
         "generos": [
           "Action",
@@ -220,33 +220,15 @@
         "estudio": "SynergySP"
       },
       {
-        "mal_id": null,
-        "anilist_id": 155723,
-        "titulo": "Wushen Zhuzai: Da Wei Pian",
-        "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
-        "episodio_actual": 422,
-        "total_episodios": 448,
-        "hora_jst": "11:00",
-        "airing_at": 1791252000,
-        "score": "6.60",
-        "formato": "ONA",
-        "generos": [
-          "Action",
-          "Fantasy"
-        ],
-        "estudio": "Ruo Hong Culture"
-      },
-      {
         "mal_id": 64388,
         "anilist_id": 213188,
         "titulo": "Jueshi Zhan Hun 2",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
-        "episodio_actual": 18,
+        "episodio_actual": 19,
         "total_episodios": 100,
         "hora_jst": "11:00",
-        "airing_at": 1791252000,
+        "airing_at": 1791856800,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -255,6 +237,77 @@
           "Fantasy"
         ],
         "estudio": ""
+      },
+      {
+        "mal_id": 63382,
+        "anilist_id": 206949,
+        "titulo": "Kyouran Reijou Nia Liston",
+        "titulo_ingles": "Nia Liston: The Merciless Maiden",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
+        "episodio_actual": 2,
+        "total_episodios": 25,
+        "hora_jst": "21:26",
+        "airing_at": 1791894360,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Fantasy"
+        ],
+        "estudio": "KONAMI animation"
+      },
+      {
+        "mal_id": 63754,
+        "anilist_id": 209502,
+        "titulo": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+        "titulo_ingles": "The Cold Sato-san is Only Sweet to Me",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "22:00",
+        "airing_at": 1791896400,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy",
+          "Romance"
+        ],
+        "estudio": "Tezuka Productions"
+      },
+      {
+        "mal_id": 62696,
+        "anilist_id": 200294,
+        "titulo": "Choujun! Choujou Senpai",
+        "titulo_ingles": "Super Psychic Policeman Chojo",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:00",
+        "airing_at": 1791900000,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "estudio": "Arvo Animation"
+      },
+      {
+        "mal_id": 63818,
+        "anilist_id": 187990,
+        "titulo": "Battle Spirits [Re] Zekkai No Ku",
+        "titulo_ingles": "Battle Spirits [Re] Zekkai No Ku",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:00",
+        "airing_at": 1791900000,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Fantasy"
+        ],
+        "estudio": "Bandai Namco Pictures"
       }
     ],
     "wednesday": [
@@ -264,10 +317,10 @@
         "titulo": "Sora wa Akai Kawa no Hotori",
         "titulo_ingles": "Red River",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
-        "episodio_actual": 14,
+        "episodio_actual": 15,
         "total_episodios": 24,
         "hora_jst": "01:35",
-        "airing_at": 1791304500,
+        "airing_at": 1791909300,
         "score": "6.20",
         "formato": "TV",
         "generos": [
@@ -351,6 +404,26 @@
           "Fantasy"
         ],
         "estudio": "Soyep"
+      },
+      {
+        "mal_id": 63431,
+        "anilist_id": 207329,
+        "titulo": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+        "titulo_ingles": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "24:00",
+        "airing_at": 1791903600,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "estudio": "P.A.WORKS"
       }
     ],
     "thursday": [
@@ -646,7 +719,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1791471600,
-        "score": null,
+        "score": "5.40",
         "formato": "TV_SHORT",
         "generos": [
           "Fantasy",
@@ -702,7 +775,7 @@
         "total_episodios": 13,
         "hora_jst": "01:53",
         "airing_at": 1791564780,
-        "score": "7.50",
+        "score": "7.60",
         "formato": "TV",
         "generos": [
           "Action",
@@ -722,7 +795,7 @@
         "total_episodios": 13,
         "hora_jst": "07:16",
         "airing_at": 1791584160,
-        "score": "6.80",
+        "score": "6.90",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -743,7 +816,7 @@
         "total_episodios": null,
         "hora_jst": "08:00",
         "airing_at": 1791586800,
-        "score": "5.10",
+        "score": "5.20",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -1017,7 +1090,7 @@
         "total_episodios": 23,
         "hora_jst": "20:00",
         "airing_at": 1791630000,
-        "score": "5.90",
+        "score": "6.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1055,7 +1128,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791637200,
-        "score": "6.60",
+        "score": "6.70",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1134,7 +1207,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1791642600,
-        "score": "5.40",
+        "score": "5.50",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1173,7 +1246,7 @@
         "total_episodios": null,
         "hora_jst": "01:30",
         "airing_at": 1791649800,
-        "score": "5.90",
+        "score": "6.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1320,6 +1393,24 @@
         "estudio": "Motion Magic"
       },
       {
+        "mal_id": null,
+        "anilist_id": 155723,
+        "titulo": "Wushen Zhuzai: Da Wei Pian",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
+        "episodio_actual": 423,
+        "total_episodios": 448,
+        "hora_jst": "11:00",
+        "airing_at": 1791684000,
+        "score": "6.60",
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Fantasy"
+        ],
+        "estudio": "Ruo Hong Culture"
+      },
+      {
         "mal_id": 61323,
         "anilist_id": 189123,
         "titulo": "Ao no Hako Season 2",
@@ -1424,7 +1515,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791723600,
-        "score": "5.60",
+        "score": "5.70",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1478,7 +1569,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791727200,
-        "score": "5.80",
+        "score": "5.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1555,7 +1646,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1791729000,
-        "score": "6.40",
+        "score": "6.60",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1574,7 +1665,7 @@
         "total_episodios": 13,
         "hora_jst": "23:45",
         "airing_at": 1791729900,
-        "score": "5.60",
+        "score": "5.70",
         "formato": "TV",
         "generos": [
           "Action",
