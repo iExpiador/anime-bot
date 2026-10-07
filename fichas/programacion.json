@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-06T22:31:38.704Z",
-  "total": 92,
+  "actualizado": "2026-10-07T22:55:18.714Z",
+  "total": 98,
   "dias": {
     "monday": [
       {
@@ -8,12 +8,12 @@
         "anilist_id": 206774,
         "titulo": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
         "titulo_ingles": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls!",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-S65hVQp46NUf.jpg",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206774-gXVdrySlLY6y.jpg",
         "episodio_actual": 2,
         "total_episodios": 8,
         "hora_jst": "01:00",
         "airing_at": 1791734400,
-        "score": "5.10",
+        "score": "5.00",
         "formato": "TV_SHORT",
         "generos": [
           "Ecchi",
@@ -67,10 +67,10 @@
         "titulo_ingles": "I'm Dating a Dark Summoner",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208025-JKvqWNr8rz8l.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "01:20",
         "airing_at": 1791735600,
-        "score": "6.70",
+        "score": "6.80",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -105,12 +105,12 @@
         "anilist_id": 207191,
         "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
         "titulo_ingles": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-4rkciwfBGi2A.jpg",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
         "episodio_actual": 2,
         "total_episodios": 12,
         "hora_jst": "21:30",
         "airing_at": 1791808200,
-        "score": "6.80",
+        "score": "6.90",
         "formato": "TV",
         "generos": [
           "Fantasy",
@@ -128,7 +128,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791810000,
-        "score": "6.50",
+        "score": "6.60",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -209,7 +209,7 @@
         "total_episodios": null,
         "hora_jst": "02:00",
         "airing_at": 1791824400,
-        "score": "5.70",
+        "score": "5.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -248,9 +248,10 @@
         "total_episodios": 25,
         "hora_jst": "21:26",
         "airing_at": 1791894360,
-        "score": null,
+        "score": "7.30",
         "formato": "TV",
         "generos": [
+          "Action",
           "Fantasy"
         ],
         "estudio": "KONAMI animation"
@@ -262,10 +263,10 @@
         "titulo_ingles": "The Cold Sato-san is Only Sweet to Me",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "22:00",
         "airing_at": 1791896400,
-        "score": null,
+        "score": "6.70",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -283,7 +284,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791900000,
-        "score": null,
+        "score": "6.10",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -338,10 +339,10 @@
         "titulo": "mofusand",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
-        "episodio_actual": 40,
+        "episodio_actual": 41,
         "total_episodios": null,
         "hora_jst": "08:00",
-        "airing_at": 1791327600,
+        "airing_at": 1791932400,
         "score": "6.10",
         "formato": "ONA",
         "generos": [
@@ -355,10 +356,10 @@
         "titulo": "Yi Nian Yongheng 4",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
-        "episodio_actual": 14,
+        "episodio_actual": 15,
         "total_episodios": 46,
         "hora_jst": "11:00",
-        "airing_at": 1791338400,
+        "airing_at": 1791943200,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -374,10 +375,10 @@
         "titulo": "You Shou Yan 6th Season",
         "titulo_ingles": "Fabulous Beasts 6",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
-        "episodio_actual": 11,
+        "episodio_actual": 12,
         "total_episodios": 12,
         "hora_jst": "11:00",
-        "airing_at": 1791338400,
+        "airing_at": 1791943200,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -393,10 +394,10 @@
         "titulo": "Da Xia Shou Mu Ren",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
-        "episodio_actual": 4,
+        "episodio_actual": 5,
         "total_episodios": 59,
         "hora_jst": "11:00",
-        "airing_at": 1791338400,
+        "airing_at": 1791943200,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -404,6 +405,85 @@
           "Fantasy"
         ],
         "estudio": "Soyep"
+      },
+      {
+        "mal_id": 52480,
+        "anilist_id": 152677,
+        "titulo": "Tantei wa mou, Shindeiru. Season 2",
+        "titulo_ingles": "The Detective Is Already Dead Season 2",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
+        "episodio_actual": 2,
+        "total_episodios": 13,
+        "hora_jst": "21:30",
+        "airing_at": 1791981000,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy",
+          "Drama",
+          "Mystery",
+          "Romance",
+          "Supernatural"
+        ],
+        "estudio": "ENGI"
+      },
+      {
+        "mal_id": 58518,
+        "anilist_id": 176314,
+        "titulo": "Sasaki to Pii-chan Season 2",
+        "titulo_ingles": "Sasaki and Peeps Season 2",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
+        "episodio_actual": 2,
+        "total_episodios": 12,
+        "hora_jst": "22:00",
+        "airing_at": 1791982800,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "estudio": "SILVER LINK."
+      },
+      {
+        "mal_id": 64084,
+        "anilist_id": 211778,
+        "titulo": "Sekai Saikyou no Majo, Hajimemashita",
+        "titulo_ingles": "The World's Strongest Witch",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "22:00",
+        "airing_at": 1791982800,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ],
+        "estudio": "Bridge, Aisle"
+      },
+      {
+        "mal_id": 59204,
+        "anilist_id": 178868,
+        "titulo": "Magic Knight Rayearth (2026)",
+        "titulo_ingles": "Magic Knight Rayearth (2026)",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:46",
+        "airing_at": 1791989160,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Adventure",
+          "Fantasy",
+          "Mahou Shoujo",
+          "Mecha"
+        ],
+        "estudio": "E&H Production"
       },
       {
         "mal_id": 63431,
@@ -415,7 +495,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1791903600,
-        "score": null,
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -489,10 +569,10 @@
         "titulo": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
         "titulo_ingles": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "24:00",
-        "airing_at": 1791385200,
+        "airing_at": 1791990000,
         "score": null,
         "formato": "TV",
         "generos": [
@@ -500,7 +580,7 @@
           "Comedy",
           "Sports"
         ],
-        "estudio": ""
+        "estudio": "M.S.C"
       },
       {
         "mal_id": 53913,
@@ -508,10 +588,10 @@
         "titulo": "Tensei Shitara Ken Deshita 2nd Season",
         "titulo_ingles": "Reincarnated as a Sword Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 12,
         "hora_jst": "24:30",
-        "airing_at": 1791387000,
+        "airing_at": 1791991800,
         "score": "7.40",
         "formato": "ONA",
         "generos": [
@@ -520,6 +600,43 @@
           "Fantasy"
         ],
         "estudio": "C2C"
+      },
+      {
+        "mal_id": 64344,
+        "anilist_id": 213068,
+        "titulo": "Juuоu Mujin Dandivine",
+        "titulo_ingles": "Dandivine",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "24:30",
+        "airing_at": 1791991800,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Mecha"
+        ],
+        "estudio": "LIDENFILMS, Kayac Animation"
+      },
+      {
+        "mal_id": 57612,
+        "anilist_id": 172192,
+        "titulo": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+        "titulo_ingles": "A Returner's Magic Should be Special Season 2",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "24:45",
+        "airing_at": 1791992700,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "Arvo Animation"
       }
     ],
     "friday": [
@@ -643,7 +760,7 @@
         "titulo_ingles": "Welsh & Shedar",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "21:26",
         "airing_at": 1791548760,
         "score": null,
@@ -697,7 +814,7 @@
         "titulo_ingles": "TOUGEN ANKI: Nikko Kegon Falls Arc",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
         "episodio_actual": 2,
-        "total_episodios": 24,
+        "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1791556200,
         "score": "7.10",
@@ -769,7 +886,7 @@
         "mal_id": 59088,
         "anilist_id": 178083,
         "titulo": "Tokyo Revengers: Santen Sensou-hen",
-        "titulo_ingles": null,
+        "titulo_ingles": "Tokyo Revengers: War of the Three Titans Arc",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
         "episodio_actual": 2,
         "total_episodios": 13,
@@ -816,7 +933,7 @@
         "total_episodios": null,
         "hora_jst": "08:00",
         "airing_at": 1791586800,
-        "score": "5.20",
+        "score": "5.30",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -864,7 +981,7 @@
         "anilist_id": 216557,
         "titulo": "Keroro Gunsou☆",
         "titulo_ingles": "KERORO☆",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-9CXz04CEmXOi.png",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216557-b72dAqbVEDO7.jpg",
         "episodio_actual": 2,
         "total_episodios": null,
         "hora_jst": "09:30",
@@ -1052,7 +1169,7 @@
         "total_episodios": 20,
         "hora_jst": "18:25",
         "airing_at": 1791624300,
-        "score": "5.90",
+        "score": "6.00",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1102,14 +1219,14 @@
       {
         "mal_id": 59787,
         "anilist_id": 180894,
-        "titulo": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+        "titulo": "Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
         "titulo_ingles": "Romelia War Chronicle",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180894-o3pz4DWFm3je.png",
         "episodio_actual": 2,
         "total_episodios": null,
         "hora_jst": "21:00",
         "airing_at": 1791633600,
-        "score": "6.70",
+        "score": "6.80",
         "formato": "ONA",
         "generos": [
           "Adventure",
@@ -1181,7 +1298,7 @@
         "anilist_id": 199007,
         "titulo": "#Zombie Sagashitemasu",
         "titulo_ingles": "#I'm Looking For a Zombie",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-qxUDe3KA6AGI.jpg",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-8R1HsnflnHJE.jpg",
         "episodio_actual": 2,
         "total_episodios": 12,
         "hora_jst": "23:30",
@@ -1241,7 +1358,7 @@
         "anilist_id": 202250,
         "titulo": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
         "titulo_ingles": "Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest!",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-duq4XpZP8TU3.jpg",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202250-mpm2cvr92Au2.jpg",
         "episodio_actual": 2,
         "total_episodios": null,
         "hora_jst": "01:30",
@@ -1512,10 +1629,10 @@
         "titulo_ingles": "Uncle's Obsession with Cute Things",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202079-nwBpDUms0Bab.png",
         "episodio_actual": 2,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "22:00",
         "airing_at": 1791723600,
-        "score": "5.70",
+        "score": "5.90",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1721,7 +1838,7 @@
         "total_episodios": null,
         "hora_jst": "24:56",
         "airing_at": 1791647760,
-        "score": "7.50",
+        "score": "7.60",
         "formato": "TV",
         "generos": [
           "Action",
