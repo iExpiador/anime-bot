@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T22:55:18.714Z",
-  "total": 98,
+  "actualizado": "2026-10-08T23:07:40.167Z",
+  "total": 102,
   "dias": {
     "monday": [
       {
@@ -32,7 +32,7 @@
         "total_episodios": 12,
         "hora_jst": "01:05",
         "airing_at": 1791734700,
-        "score": "5.10",
+        "score": "5.00",
         "formato": "TV_SHORT",
         "generos": [
           "Drama",
@@ -70,7 +70,7 @@
         "total_episodios": 12,
         "hora_jst": "01:20",
         "airing_at": 1791735600,
-        "score": "6.80",
+        "score": "6.70",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -101,6 +101,24 @@
         "estudio": "Build Dream"
       },
       {
+        "mal_id": null,
+        "anilist_id": 214593,
+        "titulo": "Yuusanchi! from Yuuhachi",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+        "episodio_actual": 3,
+        "total_episodios": null,
+        "hora_jst": "11:00",
+        "airing_at": 1791770400,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "estudio": "Fanworks"
+      },
+      {
         "mal_id": 63409,
         "anilist_id": 207191,
         "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
@@ -128,7 +146,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791810000,
-        "score": "6.60",
+        "score": "6.70",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -248,7 +266,7 @@
         "total_episodios": 25,
         "hora_jst": "21:26",
         "airing_at": 1791894360,
-        "score": "7.30",
+        "score": "7.40",
         "formato": "TV",
         "generos": [
           "Action",
@@ -284,7 +302,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791900000,
-        "score": "6.10",
+        "score": "6.30",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -302,7 +320,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791900000,
-        "score": null,
+        "score": "4.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -332,6 +350,24 @@
           "Romance"
         ],
         "estudio": "Tatsunoko Production"
+      },
+      {
+        "mal_id": null,
+        "anilist_id": 218008,
+        "titulo": "Chibi Godzilla no Gyakushuu Season 4",
+        "titulo_ingles": "Chibi Godzilla Raids Again Season 4",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg",
+        "episodio_actual": 15,
+        "total_episodios": null,
+        "hora_jst": "07:06",
+        "airing_at": 1791929160,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Comedy",
+          "Fantasy"
+        ],
+        "estudio": "Pie in the sky"
       },
       {
         "mal_id": 63151,
@@ -416,7 +452,7 @@
         "total_episodios": 13,
         "hora_jst": "21:30",
         "airing_at": 1791981000,
-        "score": null,
+        "score": "7.30",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -437,7 +473,7 @@
         "total_episodios": 12,
         "hora_jst": "22:00",
         "airing_at": 1791982800,
-        "score": null,
+        "score": "6.80",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -456,7 +492,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1791982800,
-        "score": null,
+        "score": "6.60",
         "formato": "TV",
         "generos": [
           "Action",
@@ -475,7 +511,7 @@
         "total_episodios": null,
         "hora_jst": "23:46",
         "airing_at": 1791989160,
-        "score": null,
+        "score": "6.50",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -495,7 +531,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1791903600,
-        "score": "7.10",
+        "score": "7.20",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -513,10 +549,10 @@
         "titulo": "PetitCure: Precure Fairies Season 4",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "18:30",
-        "airing_at": 1791451800,
+        "airing_at": 1792056600,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -531,10 +567,10 @@
         "titulo": "FX Senshi Kurumi-chan",
         "titulo_ingles": "FX Fighter Kurumi-chan",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 12,
         "hora_jst": "21:30",
-        "airing_at": 1791462600,
+        "airing_at": 1792067400,
         "score": "6.90",
         "formato": "TV",
         "generos": [
@@ -549,10 +585,10 @@
         "titulo": "Koori no Jouheki 2nd Season",
         "titulo_ingles": "The Ramparts of Ice Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "23:56",
-        "airing_at": 1791471360,
+        "airing_at": 1792076160,
         "score": "8.20",
         "formato": "TV",
         "generos": [
@@ -592,7 +628,7 @@
         "total_episodios": 12,
         "hora_jst": "24:30",
         "airing_at": 1791991800,
-        "score": "7.40",
+        "score": "7.50",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -611,7 +647,7 @@
         "total_episodios": null,
         "hora_jst": "24:30",
         "airing_at": 1791991800,
-        "score": null,
+        "score": "4.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -629,7 +665,7 @@
         "total_episodios": null,
         "hora_jst": "24:45",
         "airing_at": 1791992700,
-        "score": null,
+        "score": "6.80",
         "formato": "TV",
         "generos": [
           "Action",
@@ -640,6 +676,25 @@
       }
     ],
     "friday": [
+      {
+        "mal_id": 64254,
+        "anilist_id": 212503,
+        "titulo": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+        "titulo_ingles": "The Iceblade Sorcerer Shall Rule the World II",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "01:28",
+        "airing_at": 1792081680,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "Zero-G"
+      },
       {
         "mal_id": 65007,
         "anilist_id": 217577,
@@ -827,15 +882,32 @@
         "estudio": "Studio Hibari"
       },
       {
+        "mal_id": 62615,
+        "anilist_id": 199594,
+        "titulo": "Tetsuryou! meet with Tetsudou Musume",
+        "titulo_ingles": "TETSURYO! Meet With Tetsudou Musume",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-moYKzlfIH03U.jpg",
+        "episodio_actual": 2,
+        "total_episodios": 12,
+        "hora_jst": "24:00",
+        "airing_at": 1792076400,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Slice of Life"
+        ],
+        "estudio": "East Fish Studio"
+      },
+      {
         "mal_id": 64180,
         "anilist_id": 212144,
         "titulo": "Kizu darake Seijo yori Houfuku wo Komete Season2",
         "titulo_ingles": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "24:00",
-        "airing_at": 1791471600,
+        "airing_at": 1792076400,
         "score": "5.40",
         "formato": "TV_SHORT",
         "generos": [
@@ -845,33 +917,15 @@
         "estudio": "Imageworks Studio, Imagica Infos"
       },
       {
-        "mal_id": null,
-        "anilist_id": 214593,
-        "titulo": "Yuusanchi! from Yuuhachi",
-        "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
-        "episodio_actual": 2,
-        "total_episodios": null,
-        "hora_jst": "24:00",
-        "airing_at": 1791471600,
-        "score": null,
-        "formato": "TV_SHORT",
-        "generos": [
-          "Comedy",
-          "Slice of Life"
-        ],
-        "estudio": "Fanworks"
-      },
-      {
         "mal_id": 59741,
         "anilist_id": 180136,
         "titulo": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
         "titulo_ingles": "The Exiled Heavy Knight Knows How to Game the System",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
-        "episodio_actual": 15,
+        "episodio_actual": 16,
         "total_episodios": 26,
         "hora_jst": "24:26",
-        "airing_at": 1791473160,
+        "airing_at": 1792077960,
         "score": "6.70",
         "formato": "TV",
         "generos": [
@@ -986,7 +1040,7 @@
         "total_episodios": null,
         "hora_jst": "09:30",
         "airing_at": 1791592200,
-        "score": "5.50",
+        "score": "5.40",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1169,7 +1223,7 @@
         "total_episodios": 20,
         "hora_jst": "18:25",
         "airing_at": 1791624300,
-        "score": "6.00",
+        "score": "6.10",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1188,7 +1242,7 @@
         "total_episodios": 52,
         "hora_jst": "19:00",
         "airing_at": 1791626400,
-        "score": "6.80",
+        "score": "6.70",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1283,7 +1337,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791640800,
-        "score": "8.70",
+        "score": "8.60",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1403,6 +1457,23 @@
         "formato": "TV_SHORT",
         "generos": [],
         "estudio": "Imagica Infos, Imageworks Studio"
+      },
+      {
+        "mal_id": 64028,
+        "anilist_id": 218011,
+        "titulo": "Tanuki to Kitsune (TV)",
+        "titulo_ingles": "Raccoon Dog & Fox",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218011-dPgr1MlfSuhH.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "07:00",
+        "airing_at": 1791669600,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Comedy"
+        ],
+        "estudio": "Akatsuki Media Studio"
       },
       {
         "mal_id": 60534,
@@ -1686,7 +1757,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791727200,
-        "score": "5.90",
+        "score": "6.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1782,7 +1853,7 @@
         "total_episodios": 13,
         "hora_jst": "23:45",
         "airing_at": 1791729900,
-        "score": "5.70",
+        "score": "5.80",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1819,7 +1890,7 @@
         "total_episodios": 12,
         "hora_jst": "24:30",
         "airing_at": 1791646200,
-        "score": "7.30",
+        "score": "7.20",
         "formato": "TV",
         "generos": [
           "Comedy",
