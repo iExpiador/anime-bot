@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T23:07:40.167Z",
-  "total": 102,
+  "actualizado": "2026-10-09T22:27:41.777Z",
+  "total": 104,
   "dias": {
     "monday": [
       {
@@ -32,7 +32,7 @@
         "total_episodios": 12,
         "hora_jst": "01:05",
         "airing_at": 1791734700,
-        "score": "5.00",
+        "score": "4.90",
         "formato": "TV_SHORT",
         "generos": [
           "Drama",
@@ -70,7 +70,7 @@
         "total_episodios": 12,
         "hora_jst": "01:20",
         "airing_at": 1791735600,
-        "score": "6.70",
+        "score": "6.80",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -206,7 +206,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1791730800,
-        "score": "6.20",
+        "score": "6.30",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -227,7 +227,7 @@
         "total_episodios": null,
         "hora_jst": "02:00",
         "airing_at": 1791824400,
-        "score": "5.90",
+        "score": "6.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -284,7 +284,7 @@
         "total_episodios": 12,
         "hora_jst": "22:00",
         "airing_at": 1791896400,
-        "score": "6.70",
+        "score": "6.80",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -302,7 +302,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791900000,
-        "score": "6.30",
+        "score": "6.40",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -320,7 +320,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791900000,
-        "score": "4.90",
+        "score": "5.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -511,7 +511,7 @@
         "total_episodios": null,
         "hora_jst": "23:46",
         "airing_at": 1791989160,
-        "score": "6.50",
+        "score": "6.60",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -589,7 +589,7 @@
         "total_episodios": null,
         "hora_jst": "23:56",
         "airing_at": 1792076160,
-        "score": "8.20",
+        "score": "8.10",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -647,7 +647,7 @@
         "total_episodios": null,
         "hora_jst": "24:30",
         "airing_at": 1791991800,
-        "score": "4.90",
+        "score": "5.10",
         "formato": "TV",
         "generos": [
           "Action",
@@ -665,7 +665,7 @@
         "total_episodios": null,
         "hora_jst": "24:45",
         "airing_at": 1791992700,
-        "score": "6.80",
+        "score": "6.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -686,7 +686,7 @@
         "total_episodios": null,
         "hora_jst": "01:28",
         "airing_at": 1792081680,
-        "score": null,
+        "score": "6.60",
         "formato": "TV",
         "generos": [
           "Action",
@@ -701,10 +701,10 @@
         "titulo": "Mazenchu",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "09:50",
-        "airing_at": 1791507000,
+        "airing_at": 1792111800,
         "score": null,
         "formato": "TV_SHORT",
         "generos": [
@@ -718,11 +718,11 @@
         "titulo": "Shiguang Dailiren III",
         "titulo_ingles": "Link Click Season 3",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
-        "episodio_actual": 10,
+        "episodio_actual": 11,
         "total_episodios": null,
         "hora_jst": "12:00",
-        "airing_at": 1791514800,
-        "score": "8.40",
+        "airing_at": 1792119600,
+        "score": "8.50",
         "formato": "ONA",
         "generos": [
           "Drama",
@@ -738,10 +738,10 @@
         "titulo": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
         "titulo_ingles": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": 11,
         "hora_jst": "17:00",
-        "airing_at": 1791532800,
+        "airing_at": 1792137600,
         "score": "8.50",
         "formato": "ONA",
         "generos": [
@@ -759,10 +759,10 @@
         "titulo": "Pan Dorobou",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "18:40",
-        "airing_at": 1791538800,
+        "airing_at": 1792143600,
         "score": null,
         "formato": "TV_SHORT",
         "generos": [
@@ -776,10 +776,10 @@
         "titulo": "Pocket Monsters (2023)",
         "titulo_ingles": "Pokémon Horizons: The Series",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
-        "episodio_actual": 152,
+        "episodio_actual": 153,
         "total_episodios": null,
         "hora_jst": "18:55",
-        "airing_at": 1791539700,
+        "airing_at": 1792144500,
         "score": "7.30",
         "formato": "TV",
         "generos": [
@@ -795,10 +795,10 @@
         "titulo": "BEYBLADE X",
         "titulo_ingles": "BEYBLADE X",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
-        "episodio_actual": 135,
+        "episodio_actual": 136,
         "total_episodios": null,
         "hora_jst": "19:00",
-        "airing_at": 1791540000,
+        "airing_at": 1792749600,
         "score": "6.40",
         "formato": "TV",
         "generos": [
@@ -809,15 +809,33 @@
         "estudio": "OLM"
       },
       {
+        "mal_id": 64848,
+        "anilist_id": 208367,
+        "titulo": "Duel Masters LOST: Danzai no Shounen",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208367-qWKRaOpokGoG.jpg",
+        "episodio_actual": 2,
+        "total_episodios": 4,
+        "hora_jst": "21:00",
+        "airing_at": 1792152000,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Adventure",
+          "Supernatural"
+        ],
+        "estudio": "J.C.STAFF, Shogakukan Music & Digital Entertainment"
+      },
+      {
         "mal_id": 65009,
         "anilist_id": 216895,
         "titulo": "Aoki Denshou: Welsh & Shedar",
         "titulo_ingles": "Welsh & Shedar",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 12,
         "hora_jst": "21:26",
-        "airing_at": 1791548760,
+        "airing_at": 1792153560,
         "score": null,
         "formato": "TV",
         "generos": [
@@ -827,15 +845,33 @@
         "estudio": "Studio Massket"
       },
       {
+        "mal_id": 61014,
+        "anilist_id": 186742,
+        "titulo": "Toaru Anbu no ITEM",
+        "titulo_ingles": "A Certain Dark Item",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "22:30",
+        "airing_at": 1792157400,
+        "score": null,
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "estudio": "J.C.STAFF"
+      },
+      {
         "mal_id": 61987,
         "anilist_id": 195516,
         "titulo": "Kusuriya no Hitorigoto 3rd Season",
         "titulo_ingles": "The Apothecary Diaries Season 3",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 12,
         "hora_jst": "23:00",
-        "airing_at": 1791554400,
+        "airing_at": 1792159200,
         "score": "8.50",
         "formato": "TV",
         "generos": [
@@ -850,10 +886,10 @@
         "titulo": "Hotaru no Yomeiri",
         "titulo_ingles": "Firefly Wedding",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg",
-        "episodio_actual": 1,
-        "total_episodios": null,
+        "episodio_actual": 2,
+        "total_episodios": 12,
         "hora_jst": "23:30",
-        "airing_at": 1791556200,
+        "airing_at": 1792161000,
         "score": "6.20",
         "formato": "TV",
         "generos": [
@@ -868,10 +904,10 @@
         "titulo": "Tougen Anki: Nikko・Kegon no Taki-hen",
         "titulo_ingles": "TOUGEN ANKI: Nikko Kegon Falls Arc",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 12,
         "hora_jst": "23:30",
-        "airing_at": 1791556200,
+        "airing_at": 1792161000,
         "score": "7.10",
         "formato": "TV",
         "generos": [
@@ -891,7 +927,7 @@
         "total_episodios": 12,
         "hora_jst": "24:00",
         "airing_at": 1792076400,
-        "score": null,
+        "score": "5.70",
         "formato": "TV",
         "generos": [
           "Slice of Life"
@@ -926,7 +962,7 @@
         "total_episodios": 26,
         "hora_jst": "24:26",
         "airing_at": 1792077960,
-        "score": "6.70",
+        "score": "6.80",
         "formato": "TV",
         "generos": [
           "Action",
@@ -942,10 +978,10 @@
         "titulo": "Tokyo Revengers: Santen Sensou-hen",
         "titulo_ingles": "Tokyo Revengers: War of the Three Titans Arc",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 13,
         "hora_jst": "01:53",
-        "airing_at": 1791564780,
+        "airing_at": 1792169580,
         "score": "7.60",
         "formato": "TV",
         "generos": [
@@ -962,10 +998,10 @@
         "titulo": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
         "titulo_ingles": "Magical Explorer",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169581-UlAviVH36Hxi.png",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": 13,
         "hora_jst": "07:16",
-        "airing_at": 1791584160,
+        "airing_at": 1792188960,
         "score": "6.90",
         "formato": "ONA",
         "generos": [
@@ -1040,7 +1076,7 @@
         "total_episodios": null,
         "hora_jst": "09:30",
         "airing_at": 1791592200,
-        "score": "5.40",
+        "score": "5.50",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1337,7 +1373,7 @@
         "total_episodios": null,
         "hora_jst": "23:00",
         "airing_at": 1791640800,
-        "score": "8.60",
+        "score": "8.70",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1357,7 +1393,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1791642600,
-        "score": "6.00",
+        "score": "5.90",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1392,10 +1428,10 @@
         "titulo": "Uchi no Otouto-domo ga Sumimasen",
         "titulo_ingles": "Please Excuse My Younger Brothers",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
-        "episodio_actual": 14,
+        "episodio_actual": 15,
         "total_episodios": 24,
         "hora_jst": "24:00",
-        "airing_at": 1791558000,
+        "airing_at": 1792162800,
         "score": "6.80",
         "formato": "TV",
         "generos": [
@@ -1721,7 +1757,7 @@
         "total_episodios": 26,
         "hora_jst": "22:30",
         "airing_at": 1791725400,
-        "score": "6.40",
+        "score": "6.50",
         "formato": "ONA",
         "generos": [
           "Comedy",
@@ -1834,7 +1870,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1791729000,
-        "score": "6.60",
+        "score": "6.70",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1890,7 +1926,7 @@
         "total_episodios": 12,
         "hora_jst": "24:30",
         "airing_at": 1791646200,
-        "score": "7.20",
+        "score": "7.30",
         "formato": "TV",
         "generos": [
           "Comedy",
