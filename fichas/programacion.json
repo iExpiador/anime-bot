@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13T22:27:05.231Z",
-  "total": 113,
+  "actualizado": "2026-10-14T21:26:27.802Z",
+  "total": 114,
   "dias": {
     "monday": [
       {
@@ -130,7 +130,7 @@
         "total_episodios": 12,
         "hora_jst": "21:30",
         "airing_at": 1792413000,
-        "score": "7.00",
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Fantasy",
@@ -268,7 +268,7 @@
         "total_episodios": 25,
         "hora_jst": "21:26",
         "airing_at": 1792499160,
-        "score": "7.40",
+        "score": "7.50",
         "formato": "TV",
         "generos": [
           "Action",
@@ -304,7 +304,7 @@
         "total_episodios": 11,
         "hora_jst": "23:00",
         "airing_at": 1792504800,
-        "score": null,
+        "score": "7.50",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -319,7 +319,7 @@
         "titulo_ingles": "Super Psychic Policeman Chojo",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg",
         "episodio_actual": 3,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "23:00",
         "airing_at": 1792504800,
         "score": "6.40",
@@ -400,7 +400,7 @@
         "total_episodios": 11,
         "hora_jst": "01:45",
         "airing_at": 1792514700,
-        "score": null,
+        "score": "5.10",
         "formato": "TV",
         "generos": [
           "Mecha",
@@ -432,10 +432,10 @@
         "titulo": "mofusand",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
-        "episodio_actual": 41,
+        "episodio_actual": 42,
         "total_episodios": null,
         "hora_jst": "08:00",
-        "airing_at": 1791932400,
+        "airing_at": 1792537200,
         "score": "6.10",
         "formato": "ONA",
         "generos": [
@@ -449,10 +449,10 @@
         "titulo": "Yi Nian Yongheng 4",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
-        "episodio_actual": 15,
+        "episodio_actual": 16,
         "total_episodios": 46,
         "hora_jst": "11:00",
-        "airing_at": 1791943200,
+        "airing_at": 1792548000,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -463,34 +463,15 @@
         "estudio": "B.CMAY PICTURES"
       },
       {
-        "mal_id": 64461,
-        "anilist_id": 213486,
-        "titulo": "You Shou Yan 6th Season",
-        "titulo_ingles": "Fabulous Beasts 6",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
-        "episodio_actual": 12,
-        "total_episodios": 12,
-        "hora_jst": "11:00",
-        "airing_at": 1791943200,
-        "score": null,
-        "formato": "ONA",
-        "generos": [
-          "Comedy",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "estudio": "FENZ"
-      },
-      {
         "mal_id": 62218,
         "anilist_id": 214974,
         "titulo": "Da Xia Shou Mu Ren",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
-        "episodio_actual": 5,
+        "episodio_actual": 6,
         "total_episodios": 59,
         "hora_jst": "11:00",
-        "airing_at": 1791943200,
+        "airing_at": 1792548000,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -505,10 +486,10 @@
         "titulo": "Tantei wa mou, Shindeiru. Season 2",
         "titulo_ingles": "The Detective Is Already Dead Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 13,
         "hora_jst": "21:30",
-        "airing_at": 1791981000,
+        "airing_at": 1792585800,
         "score": "7.20",
         "formato": "TV",
         "generos": [
@@ -526,10 +507,10 @@
         "titulo": "Sasaki to Pii-chan Season 2",
         "titulo_ingles": "Sasaki and Peeps Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 12,
         "hora_jst": "22:00",
-        "airing_at": 1791982800,
+        "airing_at": 1792587600,
         "score": "6.80",
         "formato": "TV",
         "generos": [
@@ -545,11 +526,11 @@
         "titulo": "Sekai Saikyou no Majo, Hajimemashita",
         "titulo_ingles": "The World's Strongest Witch",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-0MXK5HqVFBYH.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "22:00",
-        "airing_at": 1791982800,
-        "score": "6.60",
+        "airing_at": 1792587600,
+        "score": "6.70",
         "formato": "TV",
         "generos": [
           "Action",
@@ -564,10 +545,10 @@
         "titulo": "Magic Knight Rayearth (2026)",
         "titulo_ingles": "Magic Knight Rayearth (2026)",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "23:46",
-        "airing_at": 1791989160,
+        "airing_at": 1792593960,
         "score": "6.70",
         "formato": "TV",
         "generos": [
@@ -617,6 +598,26 @@
           "Slice of Life"
         ],
         "estudio": "IKIF+"
+      },
+      {
+        "mal_id": 63396,
+        "anilist_id": 207084,
+        "titulo": "Onee-chan Gokko",
+        "titulo_ingles": "Playing Sister",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207084-5ERIoIDjU76C.jpg",
+        "episodio_actual": 2,
+        "total_episodios": 3,
+        "hora_jst": "19:00",
+        "airing_at": 1792058400,
+        "score": "6.50",
+        "formato": "ONA",
+        "generos": [
+          "Mystery",
+          "Psychological",
+          "Supernatural",
+          "Thriller"
+        ],
+        "estudio": "Studio Gohan"
       },
       {
         "mal_id": 63337,
@@ -679,10 +680,10 @@
         "titulo": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
         "titulo_ingles": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199068-2afNaytl50Ko.png",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": null,
         "hora_jst": "24:00",
-        "airing_at": 1791990000,
+        "airing_at": 1792594800,
         "score": null,
         "formato": "TV",
         "generos": [
@@ -693,15 +694,34 @@
         "estudio": "M.S.C"
       },
       {
+        "mal_id": 60598,
+        "anilist_id": 168085,
+        "titulo": "Dali Si Rizhi 3",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "24:00",
+        "airing_at": 1792594800,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ],
+        "estudio": "Nice Boat Animation"
+      },
+      {
         "mal_id": 53913,
         "anilist_id": 159042,
         "titulo": "Tensei Shitara Ken Deshita 2nd Season",
         "titulo_ingles": "Reincarnated as a Sword Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159042-GGFwlDskc5vR.png",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": 12,
         "hora_jst": "24:30",
-        "airing_at": 1791991800,
+        "airing_at": 1792596600,
         "score": "7.50",
         "formato": "ONA",
         "generos": [
@@ -717,10 +737,10 @@
         "titulo": "Juuоu Mujin Dandivine",
         "titulo_ingles": "Dandivine",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "24:30",
-        "airing_at": 1791991800,
+        "airing_at": 1792596600,
         "score": "5.00",
         "formato": "TV",
         "generos": [
@@ -735,10 +755,10 @@
         "titulo": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
         "titulo_ingles": "A Returner's Magic Should be Special Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": null,
         "hora_jst": "24:45",
-        "airing_at": 1791992700,
+        "airing_at": 1792597500,
         "score": "6.90",
         "formato": "TV",
         "generos": [
@@ -1485,7 +1505,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1792247400,
-        "score": "5.50",
+        "score": "5.40",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1734,7 +1754,7 @@
         "total_episodios": 12,
         "hora_jst": "16:30",
         "airing_at": 1792308600,
-        "score": "8.00",
+        "score": "8.10",
         "formato": "TV",
         "generos": [
           "Romance",
@@ -1770,7 +1790,7 @@
         "total_episodios": null,
         "hora_jst": "17:00",
         "airing_at": 1792310400,
-        "score": "6.90",
+        "score": "7.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1789,7 +1809,7 @@
         "total_episodios": null,
         "hora_jst": "17:30",
         "airing_at": 1792312200,
-        "score": "7.20",
+        "score": "7.30",
         "formato": "TV",
         "generos": [
           "Sports"
@@ -2006,6 +2026,24 @@
         "estudio": "GeyeG Pictures"
       },
       {
+        "mal_id": 63292,
+        "anilist_id": 205896,
+        "titulo": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+        "titulo_ingles": "Full Clearing Another World under a Goddess with Zero Believers",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg",
+        "episodio_actual": 2,
+        "total_episodios": null,
+        "hora_jst": "23:30",
+        "airing_at": 1792333800,
+        "score": "6.30",
+        "formato": "TV",
+        "generos": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "HORNETS"
+      },
+      {
         "mal_id": 62753,
         "anilist_id": 200455,
         "titulo": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
@@ -2025,24 +2063,6 @@
         "estudio": "Jumondou"
       },
       {
-        "mal_id": 63292,
-        "anilist_id": 205896,
-        "titulo": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-        "titulo_ingles": "Full Clearing Another World under a Goddess with Zero Believers",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg",
-        "episodio_actual": 2,
-        "total_episodios": null,
-        "hora_jst": "23:30",
-        "airing_at": 1792333800,
-        "score": "6.30",
-        "formato": "TV",
-        "generos": [
-          "Adventure",
-          "Fantasy"
-        ],
-        "estudio": "HORNETS"
-      },
-      {
         "mal_id": 62590,
         "anilist_id": 199426,
         "titulo": "Hotel Inhumans 2nd Season",
@@ -2052,7 +2072,7 @@
         "total_episodios": 13,
         "hora_jst": "23:45",
         "airing_at": 1792334700,
-        "score": "5.70",
+        "score": "5.80",
         "formato": "TV",
         "generos": [
           "Action",
