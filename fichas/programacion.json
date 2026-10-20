@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T22:09:40.936Z",
+  "actualizado": "2026-10-20T21:25:18.265Z",
   "total": 115,
   "dias": {
     "monday": [
@@ -238,33 +238,15 @@
         "estudio": "SynergySP"
       },
       {
-        "mal_id": null,
-        "anilist_id": 155723,
-        "titulo": "Wushen Zhuzai: Da Wei Pian",
-        "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
-        "episodio_actual": 426,
-        "total_episodios": 448,
-        "hora_jst": "11:00",
-        "airing_at": 1792461600,
-        "score": "6.60",
-        "formato": "ONA",
-        "generos": [
-          "Action",
-          "Fantasy"
-        ],
-        "estudio": "Ruo Hong Culture"
-      },
-      {
         "mal_id": 64388,
         "anilist_id": 213188,
         "titulo": "Jueshi Zhan Hun 2",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
-        "episodio_actual": 20,
+        "episodio_actual": 21,
         "total_episodios": 100,
         "hora_jst": "11:00",
-        "airing_at": 1792461600,
+        "airing_at": 1793066400,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -280,10 +262,10 @@
         "titulo": "Kyouran Reijou Nia Liston",
         "titulo_ingles": "Nia Liston: The Merciless Maiden",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": 25,
         "hora_jst": "21:26",
-        "airing_at": 1792499160,
+        "airing_at": 1793103960,
         "score": "7.50",
         "formato": "TV",
         "generos": [
@@ -298,10 +280,10 @@
         "titulo": "Shiotaiou no Satou-san ga Ore ni dake Amai",
         "titulo_ingles": "The Cold Sato-san is Only Sweet to Me",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": 12,
         "hora_jst": "22:00",
-        "airing_at": 1792501200,
+        "airing_at": 1793106000,
         "score": "6.80",
         "formato": "TV",
         "generos": [
@@ -316,10 +298,10 @@
         "titulo": "Chitose-kun wa Ramune Bin no Naka Part 2",
         "titulo_ingles": "Chitose Is in the Ramune Bottle 2nd Cour",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 11,
         "hora_jst": "23:00",
-        "airing_at": 1792504800,
+        "airing_at": 1793109600,
         "score": "7.60",
         "formato": "TV",
         "generos": [
@@ -334,10 +316,10 @@
         "titulo": "Choujun! Choujou Senpai",
         "titulo_ingles": "Super Psychic Policeman Chojo",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": 12,
         "hora_jst": "23:00",
-        "airing_at": 1792504800,
+        "airing_at": 1793109600,
         "score": "6.40",
         "formato": "TV",
         "generos": [
@@ -352,10 +334,10 @@
         "titulo": "Battle Spirits [Re] Zekkai no Kuu",
         "titulo_ingles": "Battle Spirits [Re] Zekkai No Ku",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": null,
         "hora_jst": "23:00",
-        "airing_at": 1792504800,
+        "airing_at": 1793109600,
         "score": "4.90",
         "formato": "TV",
         "generos": [
@@ -370,10 +352,10 @@
         "titulo": "Gensou Suikoden",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": 23,
         "hora_jst": "23:30",
-        "airing_at": 1792506600,
+        "airing_at": 1793111400,
         "score": "5.90",
         "formato": "TV",
         "generos": [
@@ -410,10 +392,10 @@
         "titulo": "Sora wa Akai Kawa no Hotori",
         "titulo_ingles": "Red River",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
-        "episodio_actual": 16,
+        "episodio_actual": 17,
         "total_episodios": 24,
         "hora_jst": "01:35",
-        "airing_at": 1792514100,
+        "airing_at": 1793118900,
         "score": "6.10",
         "formato": "TV",
         "generos": [
@@ -431,10 +413,10 @@
         "titulo": "DARK MACHINE: The Animation",
         "titulo_ingles": "DARK MACHINE THE ANIMATION",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 11,
         "hora_jst": "01:45",
-        "airing_at": 1792514700,
+        "airing_at": 1793119500,
         "score": "5.20",
         "formato": "TV",
         "generos": [
@@ -525,7 +507,7 @@
         "total_episodios": 13,
         "hora_jst": "21:30",
         "airing_at": 1792585800,
-        "score": "7.20",
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -600,10 +582,10 @@
         "titulo": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
         "titulo_ingles": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
-        "episodio_actual": 3,
+        "episodio_actual": 4,
         "total_episodios": null,
         "hora_jst": "24:00",
-        "airing_at": 1792508400,
+        "airing_at": 1793113200,
         "score": "7.40",
         "formato": "TV",
         "generos": [
@@ -1200,7 +1182,7 @@
         "total_episodios": null,
         "hora_jst": "09:30",
         "airing_at": 1792801800,
-        "score": "5.80",
+        "score": "5.70",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1402,7 +1384,7 @@
         "total_episodios": 20,
         "hora_jst": "18:25",
         "airing_at": 1792833900,
-        "score": "6.30",
+        "score": "6.40",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -1760,6 +1742,24 @@
         "estudio": "Motion Magic"
       },
       {
+        "mal_id": null,
+        "anilist_id": 155723,
+        "titulo": "Wushen Zhuzai: Da Wei Pian",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155723-hM261Imc5yfd.png",
+        "episodio_actual": 427,
+        "total_episodios": 448,
+        "hora_jst": "11:00",
+        "airing_at": 1792893600,
+        "score": "6.60",
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Fantasy"
+        ],
+        "estudio": "Ruo Hong Culture"
+      },
+      {
         "mal_id": 61323,
         "anilist_id": 189123,
         "titulo": "Ao no Hako Season 2",
@@ -1936,7 +1936,7 @@
         "total_episodios": null,
         "hora_jst": "22:30",
         "airing_at": 1792935000,
-        "score": "5.70",
+        "score": "5.80",
         "formato": "TV",
         "generos": [
           "Mahou Shoujo",
@@ -2068,7 +2068,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1792938600,
-        "score": "6.70",
+        "score": "6.60",
         "formato": "TV",
         "generos": [
           "Comedy",
