@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-25T20:37:44.568Z",
-  "total": 115,
+  "actualizado": "2026-10-26T22:28:10.616Z",
+  "total": 114,
   "dias": {
     "monday": [
       {
@@ -106,10 +106,10 @@
         "titulo": "Xian Ni",
         "titulo_ingles": "Renegade Immortal",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
-        "episodio_actual": 164,
+        "episodio_actual": 165,
         "total_episodios": 180,
         "hora_jst": "11:00",
-        "airing_at": 1792980000,
+        "airing_at": 1793584800,
         "score": "8.30",
         "formato": "ONA",
         "generos": [
@@ -121,33 +121,15 @@
         "estudio": "Build Dream"
       },
       {
-        "mal_id": null,
-        "anilist_id": 214593,
-        "titulo": "Yuusanchi! from Yuuhachi",
-        "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
-        "episodio_actual": 7,
-        "total_episodios": null,
-        "hora_jst": "11:00",
-        "airing_at": 1792980000,
-        "score": null,
-        "formato": "TV_SHORT",
-        "generos": [
-          "Comedy",
-          "Slice of Life"
-        ],
-        "estudio": "Fanworks"
-      },
-      {
         "mal_id": 65119,
         "anilist_id": 218532,
         "titulo": "Maomao no Hitorigoto 3rd Season",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
-        "episodio_actual": 4,
+        "episodio_actual": 5,
         "total_episodios": null,
         "hora_jst": "12:00",
-        "airing_at": 1792983600,
+        "airing_at": 1793588400,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -161,11 +143,11 @@
         "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
         "titulo_ingles": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
-        "episodio_actual": 4,
+        "episodio_actual": 5,
         "total_episodios": 12,
         "hora_jst": "21:30",
-        "airing_at": 1793017800,
-        "score": "7.20",
+        "airing_at": 1793622600,
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Fantasy",
@@ -179,10 +161,10 @@
         "titulo": "Tensei Goblin Dakedo Shitsumon Aru?",
         "titulo_ingles": "So What's Wrong with Getting Reborn as a Goblin?",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
-        "episodio_actual": 5,
+        "episodio_actual": 6,
         "total_episodios": null,
         "hora_jst": "22:00",
-        "airing_at": 1793019600,
+        "airing_at": 1793624400,
         "score": "6.60",
         "formato": "ONA",
         "generos": [
@@ -201,10 +183,10 @@
         "titulo": "PSYЯEN",
         "titulo_ingles": "PSYREN",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204011-j45RZoqYbdZK.jpg",
-        "episodio_actual": 4,
+        "episodio_actual": 5,
         "total_episodios": null,
         "hora_jst": "23:00",
-        "airing_at": 1793023200,
+        "airing_at": 1793628000,
         "score": "7.00",
         "formato": "TV",
         "generos": [
@@ -224,7 +206,7 @@
         "total_episodios": null,
         "hora_jst": "24:00",
         "airing_at": 1793545200,
-        "score": "6.60",
+        "score": "6.70",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -241,10 +223,10 @@
         "titulo": "Mahou Shoujo Ikusei Keikaku: restart",
         "titulo_ingles": "MAGICAL GIRL RAISING PROJECT restart",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
-        "episodio_actual": 4,
+        "episodio_actual": 5,
         "total_episodios": null,
         "hora_jst": "02:00",
-        "airing_at": 1793034000,
+        "airing_at": 1793638800,
         "score": "6.10",
         "formato": "TV",
         "generos": [
@@ -320,7 +302,7 @@
         "total_episodios": 12,
         "hora_jst": "22:00",
         "airing_at": 1793106000,
-        "score": "6.80",
+        "score": "6.90",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -400,25 +382,6 @@
           "Fantasy"
         ],
         "estudio": "KONAMI animation"
-      },
-      {
-        "mal_id": 60636,
-        "anilist_id": 185874,
-        "titulo": "BLEACH: Sennen Kessen-hen - Kashin-tan",
-        "titulo_ingles": "BLEACH: Thousand-Year Blood War - The Calamity",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg",
-        "episodio_actual": 10,
-        "total_episodios": 10,
-        "hora_jst": "24:00",
-        "airing_at": 1793026800,
-        "score": "8.90",
-        "formato": "TV",
-        "generos": [
-          "Action",
-          "Adventure",
-          "Supernatural"
-        ],
-        "estudio": "PIERROT FILMS"
       }
     ],
     "wednesday": [
@@ -506,7 +469,7 @@
         "total_episodios": 46,
         "hora_jst": "11:00",
         "airing_at": 1793152800,
-        "score": "6.80",
+        "score": "6.90",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -543,7 +506,7 @@
         "total_episodios": 13,
         "hora_jst": "21:30",
         "airing_at": 1793190600,
-        "score": "7.20",
+        "score": "7.10",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -581,7 +544,7 @@
         "total_episodios": null,
         "hora_jst": "22:00",
         "airing_at": 1793192400,
-        "score": "6.90",
+        "score": "7.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -679,7 +642,7 @@
         "total_episodios": 12,
         "hora_jst": "21:30",
         "airing_at": 1793277000,
-        "score": "6.80",
+        "score": "6.70",
         "formato": "TV",
         "generos": [
           "Drama",
@@ -1095,6 +1058,24 @@
         "estudio": "Imageworks Studio, Imagica Infos"
       },
       {
+        "mal_id": null,
+        "anilist_id": 214593,
+        "titulo": "Yuusanchi! from Yuuhachi",
+        "titulo_ingles": null,
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+        "episodio_actual": 8,
+        "total_episodios": null,
+        "hora_jst": "24:00",
+        "airing_at": 1793286000,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "estudio": "Fanworks"
+      },
+      {
         "mal_id": 59741,
         "anilist_id": 180136,
         "titulo": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
@@ -1144,7 +1125,7 @@
         "total_episodios": null,
         "hora_jst": "08:00",
         "airing_at": 1793401200,
-        "score": "5.70",
+        "score": "5.60",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -1514,7 +1495,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1793457000,
-        "score": "6.00",
+        "score": "6.10",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1875,7 +1856,7 @@
         "total_episodios": 26,
         "hora_jst": "21:00",
         "airing_at": 1793534400,
-        "score": "6.80",
+        "score": "6.90",
         "formato": "ONA",
         "generos": [
           "Comedy",
@@ -1990,7 +1971,7 @@
         "total_episodios": null,
         "hora_jst": "23:16",
         "airing_at": 1793542560,
-        "score": "8.20",
+        "score": "8.10",
         "formato": "TV",
         "generos": [
           "Action",
