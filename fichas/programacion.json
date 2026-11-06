@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-05T23:28:02.797Z",
-  "total": 115,
+  "actualizado": "2026-11-06T22:53:46.601Z",
+  "total": 116,
   "dias": {
     "monday": [
       {
@@ -13,7 +13,7 @@
         "total_episodios": 8,
         "hora_jst": "01:00",
         "airing_at": 1794153600,
-        "score": "5.20",
+        "score": "5.10",
         "formato": "TV_SHORT",
         "generos": [
           "Ecchi",
@@ -410,7 +410,7 @@
         "total_episodios": 23,
         "hora_jst": "23:30",
         "airing_at": 1794321000,
-        "score": "5.90",
+        "score": "5.80",
         "formato": "TV",
         "generos": [
           "Action",
@@ -488,7 +488,7 @@
         "total_episodios": null,
         "hora_jst": "08:00",
         "airing_at": 1794351600,
-        "score": "6.40",
+        "score": "6.50",
         "formato": "ONA",
         "generos": [
           "Slice of Life"
@@ -696,7 +696,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1794493800,
-        "score": "7.50",
+        "score": "7.40",
         "formato": "TV",
         "generos": [
           "Comedy"
@@ -844,10 +844,10 @@
         "titulo": "Mazenchu",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217577-bYfoFScj9Pwi.jpg",
-        "episodio_actual": 6,
+        "episodio_actual": 7,
         "total_episodios": null,
         "hora_jst": "09:50",
-        "airing_at": 1793926200,
+        "airing_at": 1794531000,
         "score": null,
         "formato": "TV_SHORT",
         "generos": [
@@ -861,10 +861,10 @@
         "titulo": "Luo Xiaohei Zhan Ji: Xue Qian Pian",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206244-ke6bcfsL40qY.jpg",
-        "episodio_actual": 2,
+        "episodio_actual": 3,
         "total_episodios": 6,
         "hora_jst": "13:00",
-        "airing_at": 1793937600,
+        "airing_at": 1794542400,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -881,10 +881,10 @@
         "titulo": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
         "titulo_ingles": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg",
-        "episodio_actual": 7,
+        "episodio_actual": 8,
         "total_episodios": 11,
         "hora_jst": "17:00",
-        "airing_at": 1793952000,
+        "airing_at": 1794556800,
         "score": "8.60",
         "formato": "ONA",
         "generos": [
@@ -902,10 +902,10 @@
         "titulo": "Pan Dorobou",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194207-7n4M6jOwLdcF.jpg",
-        "episodio_actual": 6,
-        "total_episodios": null,
+        "episodio_actual": 7,
+        "total_episodios": 26,
         "hora_jst": "18:40",
-        "airing_at": 1793958000,
+        "airing_at": 1794562800,
         "score": null,
         "formato": "TV_SHORT",
         "generos": [
@@ -919,10 +919,10 @@
         "titulo": "Pocket Monsters (2023)",
         "titulo_ingles": "Pokémon Horizons: The Series",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158871-GBM9AMDfDRSu.jpg",
-        "episodio_actual": 156,
+        "episodio_actual": 157,
         "total_episodios": null,
         "hora_jst": "18:55",
-        "airing_at": 1793958900,
+        "airing_at": 1794563700,
         "score": "7.30",
         "formato": "TV",
         "generos": [
@@ -938,10 +938,10 @@
         "titulo": "BEYBLADE X",
         "titulo_ingles": "BEYBLADE X",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
-        "episodio_actual": 139,
+        "episodio_actual": 140,
         "total_episodios": null,
         "hora_jst": "19:00",
-        "airing_at": 1793959200,
+        "airing_at": 1794564000,
         "score": "6.50",
         "formato": "TV",
         "generos": [
@@ -957,10 +957,10 @@
         "titulo": "Girigiri Warukunai Watame",
         "titulo_ingles": "Watame Did Borderline Nothing Wrong",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146004-hH08KAB1yHlN.png",
-        "episodio_actual": 87,
+        "episodio_actual": 88,
         "total_episodios": null,
         "hora_jst": "19:00",
-        "airing_at": 1793959200,
+        "airing_at": 1794564000,
         "score": "7.00",
         "formato": "ONA",
         "generos": [
@@ -970,16 +970,35 @@
         "estudio": ""
       },
       {
+        "mal_id": 63045,
+        "anilist_id": 203275,
+        "titulo": "Demons' Crest",
+        "titulo_ingles": "Devils' Crest",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+        "episodio_actual": 3,
+        "total_episodios": null,
+        "hora_jst": "21:00",
+        "airing_at": 1794571200,
+        "score": "3.40",
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "estudio": "Production I.G"
+      },
+      {
         "mal_id": 65009,
         "anilist_id": 216895,
         "titulo": "Aoki Denshou: Welsh & Shedar",
         "titulo_ingles": "Welsh & Shedar",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
-        "episodio_actual": 6,
+        "episodio_actual": 7,
         "total_episodios": 12,
         "hora_jst": "21:26",
-        "airing_at": 1793967960,
-        "score": "5.60",
+        "airing_at": 1794572760,
+        "score": "5.70",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -993,10 +1012,10 @@
         "titulo": "Toaru Anbu no ITEM",
         "titulo_ingles": "A Certain Dark Item",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png",
-        "episodio_actual": 5,
+        "episodio_actual": 6,
         "total_episodios": null,
         "hora_jst": "22:30",
-        "airing_at": 1793971800,
+        "airing_at": 1794576600,
         "score": "6.70",
         "formato": "TV",
         "generos": [
@@ -1011,10 +1030,10 @@
         "titulo": "Kusuriya no Hitorigoto 3rd Season",
         "titulo_ingles": "The Apothecary Diaries Season 3",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
-        "episodio_actual": 6,
+        "episodio_actual": 7,
         "total_episodios": 12,
         "hora_jst": "23:00",
-        "airing_at": 1793973600,
+        "airing_at": 1794578400,
         "score": "8.50",
         "formato": "TV",
         "generos": [
@@ -1029,10 +1048,10 @@
         "titulo": "Hotaru no Yomeiri",
         "titulo_ingles": "Firefly Wedding",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg",
-        "episodio_actual": 5,
+        "episodio_actual": 6,
         "total_episodios": 12,
         "hora_jst": "23:30",
-        "airing_at": 1793975400,
+        "airing_at": 1794580200,
         "score": "7.50",
         "formato": "TV",
         "generos": [
@@ -1047,10 +1066,10 @@
         "titulo": "Tougen Anki: Nikko・Kegon no Taki-hen",
         "titulo_ingles": "TOUGEN ANKI: Nikko Kegon Falls Arc",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
-        "episodio_actual": 6,
+        "episodio_actual": 7,
         "total_episodios": 12,
         "hora_jst": "23:30",
-        "airing_at": 1793975400,
+        "airing_at": 1794580200,
         "score": "7.30",
         "formato": "TV",
         "generos": [
@@ -1121,10 +1140,10 @@
         "titulo": "Tokyo Revengers: Santen Sensou-hen",
         "titulo_ingles": "Tokyo Revengers: War of the Three Titans Arc",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
-        "episodio_actual": 6,
+        "episodio_actual": 7,
         "total_episodios": 13,
         "hora_jst": "01:53",
-        "airing_at": 1793983980,
+        "airing_at": 1794588780,
         "score": "7.70",
         "formato": "TV",
         "generos": [
@@ -1145,7 +1164,7 @@
         "total_episodios": null,
         "hora_jst": "08:00",
         "airing_at": 1794006000,
-        "score": "5.70",
+        "score": "5.60",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -1536,7 +1555,7 @@
         "total_episodios": 12,
         "hora_jst": "23:45",
         "airing_at": 1794062700,
-        "score": "5.10",
+        "score": "5.20",
         "formato": "TV",
         "generos": [
           "Horror",
@@ -1551,10 +1570,10 @@
         "titulo": "Uchi no Otouto-domo ga Sumimasen",
         "titulo_ingles": "Please Excuse My Younger Brothers",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-YQXiymUiDQNA.jpg",
-        "episodio_actual": 18,
+        "episodio_actual": 19,
         "total_episodios": 24,
         "hora_jst": "24:00",
-        "airing_at": 1793977200,
+        "airing_at": 1794582000,
         "score": "6.90",
         "formato": "TV",
         "generos": [
@@ -1876,7 +1895,7 @@
         "total_episodios": 26,
         "hora_jst": "21:00",
         "airing_at": 1794139200,
-        "score": "6.90",
+        "score": "7.00",
         "formato": "ONA",
         "generos": [
           "Comedy",
@@ -2030,7 +2049,7 @@
         "total_episodios": null,
         "hora_jst": "23:30",
         "airing_at": 1794148200,
-        "score": "6.90",
+        "score": "6.80",
         "formato": "TV",
         "generos": [
           "Adventure",
@@ -2143,7 +2162,7 @@
         "total_episodios": null,
         "hora_jst": "24:56",
         "airing_at": 1794066960,
-        "score": "7.80",
+        "score": "7.90",
         "formato": "TV",
         "generos": [
           "Action",
