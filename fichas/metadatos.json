@@ -8,5 +8,15 @@
     "episodios": 220,
     "año": 2002,
     "archivo": "naruto.html"
+  },
+  {
+    "id": "28171",
+    "titulo": "Shokugeki no Souma",
+    "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20923-pNT38pjW3RFH.jpg",
+    "score": "7.80",
+    "tipo": "TV",
+    "episodios": 24,
+    "año": 2015,
+    "archivo": "shokugeki-no-souma.html"
   }
 ]
