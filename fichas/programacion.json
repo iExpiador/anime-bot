@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T00:04:04.918Z",
+  "actualizado": "2026-11-20T00:26:54.781Z",
   "total": 117,
   "dias": {
     "monday": [
@@ -100,6 +100,24 @@
           "Fantasy"
         ],
         "estudio": "Build Dream"
+      },
+      {
+        "mal_id": 64717,
+        "anilist_id": 214593,
+        "titulo": "Yuusanchi! from Yuuhachi",
+        "titulo_ingles": "YU-SANCHi! from YU-HACHi",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+        "episodio_actual": 15,
+        "total_episodios": null,
+        "hora_jst": "11:00",
+        "airing_at": 1795399200,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "estudio": "Fanworks"
       },
       {
         "mal_id": 65119,
@@ -497,6 +515,24 @@
         "estudio": "B.CMAY PICTURES"
       },
       {
+        "mal_id": 62218,
+        "anilist_id": 214974,
+        "titulo": "Da Xia Shou Mu Ren",
+        "titulo_ingles": "The Guardian of Daxia",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
+        "episodio_actual": 19,
+        "total_episodios": 59,
+        "hora_jst": "11:00",
+        "airing_at": 1795572000,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Fantasy"
+        ],
+        "estudio": "Soyep"
+      },
+      {
         "mal_id": 52480,
         "anilist_id": 152677,
         "titulo": "Tantei wa mou, Shindeiru. Season 2",
@@ -615,33 +651,15 @@
     ],
     "thursday": [
       {
-        "mal_id": 62218,
-        "anilist_id": 214974,
-        "titulo": "Da Xia Shou Mu Ren",
-        "titulo_ingles": "The Guardian of Daxia",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
-        "episodio_actual": 18,
-        "total_episodios": 59,
-        "hora_jst": "11:00",
-        "airing_at": 1795053600,
-        "score": null,
-        "formato": "ONA",
-        "generos": [
-          "Action",
-          "Fantasy"
-        ],
-        "estudio": "Soyep"
-      },
-      {
         "mal_id": 65095,
         "anilist_id": 217624,
         "titulo": "PetitCure: Precure Fairies Season 4",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx217624-Cwkze5dZ5txL.jpg",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": null,
         "hora_jst": "18:30",
-        "airing_at": 1795080600,
+        "airing_at": 1795685400,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -656,10 +674,10 @@
         "titulo": "FX Senshi Kurumi-chan",
         "titulo_ingles": "FX Fighter Kurumi-chan",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206401-8cAebkI0i8BA.png",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 12,
         "hora_jst": "21:30",
-        "airing_at": 1795091400,
+        "airing_at": 1795696200,
         "score": "6.70",
         "formato": "TV",
         "generos": [
@@ -674,10 +692,10 @@
         "titulo": "Girls und Panzer: Motto Love Love Sakusen desu!",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
-        "episodio_actual": 7,
+        "episodio_actual": 8,
         "total_episodios": 12,
         "hora_jst": "23:30",
-        "airing_at": 1795098600,
+        "airing_at": 1795703400,
         "score": "7.50",
         "formato": "TV",
         "generos": [
@@ -691,11 +709,11 @@
         "titulo": "Koori no Jouheki 2nd Season",
         "titulo_ingles": "The Ramparts of Ice Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": null,
         "hora_jst": "23:56",
-        "airing_at": 1795100160,
-        "score": "8.20",
+        "airing_at": 1795704960,
+        "score": "8.10",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -750,10 +768,10 @@
         "titulo_ingles": "Dandivine",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
         "episodio_actual": 8,
-        "total_episodios": null,
+        "total_episodios": 12,
         "hora_jst": "24:30",
         "airing_at": 1795620600,
-        "score": "5.10",
+        "score": "5.00",
         "formato": "TV",
         "generos": [
           "Action",
@@ -788,10 +806,10 @@
         "titulo": "Hyouken no Majutsushi ga Sekai wo Suberu II",
         "titulo_ingles": "The Iceblade Sorcerer Shall Rule the World II",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212503-sXBpRZr96c4e.jpg",
-        "episodio_actual": 7,
+        "episodio_actual": 8,
         "total_episodios": null,
         "hora_jst": "01:28",
-        "airing_at": 1795105680,
+        "airing_at": 1795710480,
         "score": "6.60",
         "formato": "TV",
         "generos": [
@@ -1048,10 +1066,10 @@
         "titulo": "Tetsuryou! meet with Tetsudou Musume",
         "titulo_ingles": "TETSURYO! Meet With Tetsudou Musume",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-moYKzlfIH03U.jpg",
-        "episodio_actual": 7,
+        "episodio_actual": 8,
         "total_episodios": 12,
         "hora_jst": "24:00",
-        "airing_at": 1795100400,
+        "airing_at": 1795705200,
         "score": "6.00",
         "formato": "TV",
         "generos": [
@@ -1065,10 +1083,10 @@
         "titulo": "Kizu darake Seijo yori Houfuku wo Komete Season2",
         "titulo_ingles": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": null,
         "hora_jst": "24:00",
-        "airing_at": 1795100400,
+        "airing_at": 1795705200,
         "score": "6.10",
         "formato": "TV_SHORT",
         "generos": [
@@ -1078,33 +1096,15 @@
         "estudio": "Imageworks Studio, Imagica Infos"
       },
       {
-        "mal_id": 64717,
-        "anilist_id": 214593,
-        "titulo": "Yuusanchi! from Yuuhachi",
-        "titulo_ingles": "YU-SANCHi! from YU-HACHi",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
-        "episodio_actual": 14,
-        "total_episodios": null,
-        "hora_jst": "24:00",
-        "airing_at": 1795100400,
-        "score": null,
-        "formato": "TV_SHORT",
-        "generos": [
-          "Comedy",
-          "Slice of Life"
-        ],
-        "estudio": "Fanworks"
-      },
-      {
         "mal_id": 59741,
         "anilist_id": 180136,
         "titulo": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
         "titulo_ingles": "The Exiled Heavy Knight Knows How to Game the System",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
-        "episodio_actual": 21,
+        "episodio_actual": 22,
         "total_episodios": 26,
         "hora_jst": "24:26",
-        "airing_at": 1795101960,
+        "airing_at": 1795706760,
         "score": "6.70",
         "formato": "TV",
         "generos": [
@@ -1290,7 +1290,7 @@
         "total_episodios": 52,
         "hora_jst": "12:00",
         "airing_at": 1795230000,
-        "score": "7.50",
+        "score": "7.60",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1841,7 +1841,7 @@
         "total_episodios": null,
         "hora_jst": "17:30",
         "airing_at": 1795336200,
-        "score": "8.20",
+        "score": "8.30",
         "formato": "TV",
         "generos": [
           "Sports"
