@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T23:26:27.310Z",
+  "actualizado": "2026-11-24T03:54:22.805Z",
   "total": 118,
   "dias": {
     "monday": [
@@ -32,7 +32,7 @@
         "total_episodios": 12,
         "hora_jst": "01:17",
         "airing_at": 1795969020,
-        "score": "4.10",
+        "score": "4.00",
         "formato": "TV_SHORT",
         "generos": [
           "Drama",
@@ -87,10 +87,10 @@
         "titulo": "Xian Ni",
         "titulo_ingles": "Renegade Immortal",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137653-1wHbCVvABGOr.png",
-        "episodio_actual": 168,
+        "episodio_actual": 169,
         "total_episodios": 180,
         "hora_jst": "11:00",
-        "airing_at": 1795399200,
+        "airing_at": 1796004000,
         "score": "8.30",
         "formato": "ONA",
         "generos": [
@@ -102,33 +102,15 @@
         "estudio": "Build Dream"
       },
       {
-        "mal_id": 64717,
-        "anilist_id": 214593,
-        "titulo": "Yuusanchi! from Yuuhachi",
-        "titulo_ingles": "YU-SANCHi! from YU-HACHi",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
-        "episodio_actual": 15,
-        "total_episodios": null,
-        "hora_jst": "11:00",
-        "airing_at": 1795399200,
-        "score": null,
-        "formato": "TV_SHORT",
-        "generos": [
-          "Comedy",
-          "Slice of Life"
-        ],
-        "estudio": "Fanworks"
-      },
-      {
         "mal_id": 65119,
         "anilist_id": 218532,
         "titulo": "Maomao no Hitorigoto 3rd Season",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218532-I1GCprJrJ5sm.png",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": null,
         "hora_jst": "12:00",
-        "airing_at": 1795402800,
+        "airing_at": 1796007600,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -160,10 +142,10 @@
         "titulo": "Hotaru no Yomeiri: Choitashi",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx218938-i29Q90gbQcZQ.png",
-        "episodio_actual": 7,
+        "episodio_actual": 8,
         "total_episodios": null,
         "hora_jst": "18:00",
-        "airing_at": 1795424400,
+        "airing_at": 1796029200,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -178,10 +160,10 @@
         "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
         "titulo_ingles": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 12,
         "hora_jst": "21:30",
-        "airing_at": 1795437000,
+        "airing_at": 1796041800,
         "score": "7.40",
         "formato": "TV",
         "generos": [
@@ -196,10 +178,10 @@
         "titulo": "Tensei Goblin Dakedo Shitsumon Aru?",
         "titulo_ingles": "So What's Wrong with Getting Reborn as a Goblin?",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 12,
         "hora_jst": "22:00",
-        "airing_at": 1795438800,
+        "airing_at": 1796043600,
         "score": "6.40",
         "formato": "ONA",
         "generos": [
@@ -221,7 +203,7 @@
         "episodio_actual": 7,
         "total_episodios": null,
         "hora_jst": "23:00",
-        "airing_at": 1796047200,
+        "airing_at": 1796652000,
         "score": "6.90",
         "formato": "TV",
         "generos": [
@@ -277,10 +259,10 @@
         "titulo": "Mahou Shoujo Ikusei Keikaku: restart",
         "titulo_ingles": "MAGICAL GIRL RAISING PROJECT restart",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx160803-Rcr3IvhE7q9c.png",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": null,
         "hora_jst": "02:00",
-        "airing_at": 1795453200,
+        "airing_at": 1796058000,
         "score": "6.10",
         "formato": "TV",
         "generos": [
@@ -297,10 +279,10 @@
         "titulo": "Jueshi Zhan Hun 2",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
-        "episodio_actual": 25,
+        "episodio_actual": 26,
         "total_episodios": 100,
         "hora_jst": "11:00",
-        "airing_at": 1795485600,
+        "airing_at": 1796090400,
         "score": null,
         "formato": "ONA",
         "generos": [
@@ -488,7 +470,7 @@
         "total_episodios": null,
         "hora_jst": "08:00",
         "airing_at": 1795561200,
-        "score": "6.50",
+        "score": "6.40",
         "formato": "ONA",
         "generos": [
           "Slice of Life"
@@ -1152,6 +1134,24 @@
         "estudio": "Imageworks Studio, Imagica Infos"
       },
       {
+        "mal_id": 64717,
+        "anilist_id": 214593,
+        "titulo": "Yuusanchi! from Yuuhachi",
+        "titulo_ingles": "YU-SANCHi! from YU-HACHi",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214593-WZ0HaPSRae2E.png",
+        "episodio_actual": 16,
+        "total_episodios": null,
+        "hora_jst": "24:00",
+        "airing_at": 1795705200,
+        "score": null,
+        "formato": "TV_SHORT",
+        "generos": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "estudio": "Fanworks"
+      },
+      {
         "mal_id": 59741,
         "anilist_id": 180136,
         "titulo": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
@@ -1346,7 +1346,7 @@
         "total_episodios": 52,
         "hora_jst": "12:00",
         "airing_at": 1795834800,
-        "score": "7.60",
+        "score": "7.50",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1457,7 +1457,7 @@
         "total_episodios": 20,
         "hora_jst": "18:25",
         "airing_at": 1795857900,
-        "score": "7.00",
+        "score": "6.90",
         "formato": "TV",
         "generos": [
           "Drama",
@@ -1752,7 +1752,7 @@
         "total_episodios": null,
         "hora_jst": "09:30",
         "airing_at": 1795912200,
-        "score": "5.80",
+        "score": "5.70",
         "formato": "TV",
         "generos": [
           "Music"
@@ -1804,7 +1804,7 @@
         "total_episodios": 52,
         "hora_jst": "11:00",
         "airing_at": 1795917600,
-        "score": "7.40",
+        "score": "7.30",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1878,7 +1878,7 @@
         "total_episodios": null,
         "hora_jst": "17:30",
         "airing_at": 1795941000,
-        "score": "8.30",
+        "score": "8.20",
         "formato": "TV",
         "generos": [
           "Sports"
@@ -1914,7 +1914,7 @@
         "total_episodios": null,
         "hora_jst": "18:30",
         "airing_at": 1795944600,
-        "score": "5.70",
+        "score": "5.60",
         "formato": "TV",
         "generos": [
           "Comedy",
@@ -2066,7 +2066,7 @@
         "total_episodios": 12,
         "hora_jst": "23:30",
         "airing_at": 1795962600,
-        "score": "7.60",
+        "score": "7.70",
         "formato": "ONA",
         "generos": [
           "Action",
