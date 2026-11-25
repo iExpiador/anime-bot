@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-24T03:54:22.805Z",
-  "total": 118,
+  "actualizado": "2026-11-25T02:04:01.162Z",
+  "total": 117,
   "dias": {
     "monday": [
       {
@@ -51,7 +51,7 @@
         "total_episodios": 12,
         "hora_jst": "01:20",
         "airing_at": 1795969200,
-        "score": "6.70",
+        "score": "6.60",
         "formato": "TV_SHORT",
         "generos": [
           "Comedy",
@@ -164,7 +164,7 @@
         "total_episodios": 12,
         "hora_jst": "21:30",
         "airing_at": 1796041800,
-        "score": "7.40",
+        "score": "7.50",
         "formato": "TV",
         "generos": [
           "Fantasy",
@@ -298,10 +298,10 @@
         "titulo": "Kyouran Reijou Nia Liston",
         "titulo_ingles": "Nia Liston: The Merciless Maiden",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 25,
-        "hora_jst": "21:26",
-        "airing_at": 1795523160,
+        "hora_jst": "21:25",
+        "airing_at": 1796127900,
         "score": "7.40",
         "formato": "TV",
         "generos": [
@@ -316,10 +316,10 @@
         "titulo": "Shiotaiou no Satou-san ga Ore ni dake Amai",
         "titulo_ingles": "The Cold Sato-san is Only Sweet to Me",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209502-C81oN8M4Smlo.jpg",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 12,
         "hora_jst": "22:00",
-        "airing_at": 1795525200,
+        "airing_at": 1796130000,
         "score": "6.70",
         "formato": "TV",
         "generos": [
@@ -334,10 +334,10 @@
         "titulo": "Chitose-kun wa Ramune Bin no Naka Part 2",
         "titulo_ingles": "Chitose Is in the Ramune Bottle 2nd Cour",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198727-BL0JTpg0G8tq.jpg",
-        "episodio_actual": 7,
+        "episodio_actual": 8,
         "total_episodios": 11,
         "hora_jst": "23:00",
-        "airing_at": 1795528800,
+        "airing_at": 1796133600,
         "score": "7.80",
         "formato": "TV",
         "generos": [
@@ -352,10 +352,10 @@
         "titulo": "Choujun! Choujou Senpai",
         "titulo_ingles": "Super Psychic Policeman Chojo",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200294-E6KIgkFaJOfG.jpg",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 12,
         "hora_jst": "23:00",
-        "airing_at": 1795528800,
+        "airing_at": 1796133600,
         "score": "6.50",
         "formato": "TV",
         "generos": [
@@ -370,10 +370,10 @@
         "titulo": "Battle Spirits [Re] Zekkai no Kuu",
         "titulo_ingles": "Battle Spirits [Re] Zekkai No Ku",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187990-tNyQPmr9TkYi.png",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": null,
         "hora_jst": "23:00",
-        "airing_at": 1795528800,
+        "airing_at": 1796133600,
         "score": "5.10",
         "formato": "TV",
         "generos": [
@@ -388,10 +388,10 @@
         "titulo": "Gensou Suikoden",
         "titulo_ingles": "Suikoden",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187316-jucYCojVTjSY.jpg",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 23,
         "hora_jst": "23:30",
-        "airing_at": 1795530600,
+        "airing_at": 1796135400,
         "score": "5.80",
         "formato": "TV",
         "generos": [
@@ -409,10 +409,10 @@
         "titulo": "Sora wa Akai Kawa no Hotori",
         "titulo_ingles": "Red River",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
-        "episodio_actual": 21,
+        "episodio_actual": 22,
         "total_episodios": 24,
         "hora_jst": "01:35",
-        "airing_at": 1795538100,
+        "airing_at": 1796142900,
         "score": "6.20",
         "formato": "TV",
         "generos": [
@@ -430,10 +430,10 @@
         "titulo": "DARK MACHINE: The Animation",
         "titulo_ingles": "DARK MACHINE THE ANIMATION",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179876-Wg62CAzp5WQ1.jpg",
-        "episodio_actual": 7,
+        "episodio_actual": 8,
         "total_episodios": 11,
         "hora_jst": "01:45",
-        "airing_at": 1795538700,
+        "airing_at": 1796143500,
         "score": "5.20",
         "formato": "TV",
         "generos": [
@@ -448,10 +448,10 @@
         "titulo": "Chibi Godzilla no Gyakushuu Season 4",
         "titulo_ingles": "Chibi Godzilla Raids Again Season 4",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg",
-        "episodio_actual": 18,
+        "episodio_actual": 19,
         "total_episodios": null,
         "hora_jst": "07:06",
-        "airing_at": 1795557960,
+        "airing_at": 1796767560,
         "score": null,
         "formato": "TV_SHORT",
         "generos": [
@@ -466,11 +466,11 @@
         "titulo": "mofusand",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
-        "episodio_actual": 47,
+        "episodio_actual": 48,
         "total_episodios": null,
         "hora_jst": "08:00",
-        "airing_at": 1795561200,
-        "score": "6.40",
+        "airing_at": 1796166000,
+        "score": "6.50",
         "formato": "ONA",
         "generos": [
           "Slice of Life"
@@ -483,10 +483,10 @@
         "titulo": "Yi Nian Yongheng 4",
         "titulo_ingles": null,
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199409-tZnVTAQ9P6fY.png",
-        "episodio_actual": 21,
+        "episodio_actual": 22,
         "total_episodios": 46,
         "hora_jst": "11:00",
-        "airing_at": 1795572000,
+        "airing_at": 1796176800,
         "score": "7.00",
         "formato": "ONA",
         "generos": [
@@ -497,27 +497,9 @@
         "estudio": "B.CMAY PICTURES"
       },
       {
-        "mal_id": 62218,
-        "anilist_id": 214974,
-        "titulo": "Da Xia Shou Mu Ren",
-        "titulo_ingles": "The Guardian of Daxia",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
-        "episodio_actual": 19,
-        "total_episodios": 59,
-        "hora_jst": "11:00",
-        "airing_at": 1795572000,
-        "score": null,
-        "formato": "ONA",
-        "generos": [
-          "Action",
-          "Fantasy"
-        ],
-        "estudio": "Soyep"
-      },
-      {
         "mal_id": 52480,
         "anilist_id": 152677,
-        "titulo": "Tantei wa mou, Shindeiru. Season 2",
+        "titulo": "Tantei wa Mou, Shindeiru. Season 2",
         "titulo_ingles": "The Detective Is Already Dead Season 2",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152677-gtJbgjE94lCN.png",
         "episodio_actual": 8,
@@ -598,8 +580,8 @@
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
         "episodio_actual": 8,
         "total_episodios": null,
-        "hora_jst": "23:46",
-        "airing_at": 1795617960,
+        "hora_jst": "23:45",
+        "airing_at": 1795617900,
         "score": "6.80",
         "formato": "TV",
         "generos": [
@@ -616,10 +598,10 @@
         "titulo": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
         "titulo_ingles": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
-        "episodio_actual": 8,
+        "episodio_actual": 9,
         "total_episodios": 12,
         "hora_jst": "24:00",
-        "airing_at": 1795532400,
+        "airing_at": 1796137200,
         "score": "7.40",
         "formato": "TV",
         "generos": [
@@ -632,6 +614,24 @@
       }
     ],
     "thursday": [
+      {
+        "mal_id": 62218,
+        "anilist_id": 214974,
+        "titulo": "Da Xia Shou Mu Ren",
+        "titulo_ingles": "The Guardian of Daxia",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
+        "episodio_actual": 20,
+        "total_episodios": 59,
+        "hora_jst": "11:00",
+        "airing_at": 1795658400,
+        "score": null,
+        "formato": "ONA",
+        "generos": [
+          "Action",
+          "Fantasy"
+        ],
+        "estudio": "Soyep"
+      },
       {
         "mal_id": null,
         "anilist_id": 220079,
@@ -802,7 +802,7 @@
       {
         "mal_id": 64344,
         "anilist_id": 213068,
-        "titulo": "Juuоu Mujin Dandivine",
+        "titulo": "Juuou Mujin Dandivine",
         "titulo_ingles": "Dandivine",
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213068-aFSedkY5bQ4m.png",
         "episodio_actual": 8,
@@ -1015,8 +1015,8 @@
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216895-Ofx4FSKFa4CQ.jpg",
         "episodio_actual": 9,
         "total_episodios": 12,
-        "hora_jst": "21:26",
-        "airing_at": 1795782360,
+        "hora_jst": "21:25",
+        "airing_at": 1795782300,
         "score": "5.90",
         "formato": "TV",
         "generos": [
@@ -1179,9 +1179,9 @@
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
         "episodio_actual": 9,
         "total_episodios": 13,
-        "hora_jst": "01:53",
-        "airing_at": 1795798380,
-        "score": "7.70",
+        "hora_jst": "01:23",
+        "airing_at": 1795796580,
+        "score": "7.80",
         "formato": "TV",
         "generos": [
           "Action",
@@ -1289,7 +1289,7 @@
         "total_episodios": 30,
         "hora_jst": "10:00",
         "airing_at": 1795827600,
-        "score": "6.40",
+        "score": "6.50",
         "formato": "ONA",
         "generos": [
           "Action",
@@ -1297,24 +1297,6 @@
           "Fantasy"
         ],
         "estudio": "CG Year"
-      },
-      {
-        "mal_id": 60597,
-        "anilist_id": 199353,
-        "titulo": "Dawang Raoming 3",
-        "titulo_ingles": null,
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-S2jczHjCWHGL.png",
-        "episodio_actual": 11,
-        "total_episodios": 16,
-        "hora_jst": "11:00",
-        "airing_at": 1795831200,
-        "score": "7.50",
-        "formato": "ONA",
-        "generos": [
-          "Action",
-          "Fantasy"
-        ],
-        "estudio": "Big Firebird Cultural Media"
       },
       {
         "mal_id": 51836,
@@ -1752,7 +1734,7 @@
         "total_episodios": null,
         "hora_jst": "09:30",
         "airing_at": 1795912200,
-        "score": "5.70",
+        "score": "5.80",
         "formato": "TV",
         "generos": [
           "Music"
@@ -2017,6 +1999,25 @@
         "estudio": "POLYGON PICTURES"
       },
       {
+        "mal_id": 63367,
+        "anilist_id": 206814,
+        "titulo": "Dragon Ball Super: Beerus",
+        "titulo_ingles": "Dragon Ball Super: Beerus",
+        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg",
+        "episodio_actual": 8,
+        "total_episodios": null,
+        "hora_jst": "23:15",
+        "airing_at": 1795961700,
+        "score": "8.00",
+        "formato": "TV",
+        "generos": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "estudio": "Toei Animation"
+      },
+      {
         "mal_id": 21,
         "anilist_id": 21,
         "titulo": "ONE PIECE",
@@ -2034,25 +2035,6 @@
           "Comedy",
           "Drama",
           "Fantasy"
-        ],
-        "estudio": "Toei Animation"
-      },
-      {
-        "mal_id": 63367,
-        "anilist_id": 206814,
-        "titulo": "Dragon Ball Super: Beerus",
-        "titulo_ingles": "Dragon Ball Super: Beerus",
-        "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg",
-        "episodio_actual": 8,
-        "total_episodios": null,
-        "hora_jst": "23:16",
-        "airing_at": 1795961760,
-        "score": "8.00",
-        "formato": "TV",
-        "generos": [
-          "Action",
-          "Adventure",
-          "Sci-Fi"
         ],
         "estudio": "Toei Animation"
       },
@@ -2197,8 +2179,8 @@
         "imagen": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209872-RBeVPqwejHFp.jpg",
         "episodio_actual": 9,
         "total_episodios": null,
-        "hora_jst": "24:56",
-        "airing_at": 1795881360,
+        "hora_jst": "24:55",
+        "airing_at": 1795881300,
         "score": "7.90",
         "formato": "TV",
         "generos": [
